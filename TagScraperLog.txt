@@ -1,0 +1,5675 @@
+2021-11-20 01:54:01,538 - DEBUG -Starting new HTTPS connection (1): bandcamp.com:443
+2021-11-20 01:54:01,779 - DEBUG -https://bandcamp.com:443 "GET /tags HTTP/1.1" 200 None
+2021-11-20 01:54:01,943 - DEBUG -
+
+CYCLING THROUGH genre_tags:
+2021-11-20 01:54:01,943 - DEBUG -
+https://bandcamp.com/tag/electronic
+2021-11-20 01:54:01,953 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:01,953 - DEBUG -
+https://bandcamp.com/tag/experimental
+2021-11-20 01:54:01,962 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:01,962 - DEBUG -
+https://bandcamp.com/tag/rock
+2021-11-20 01:54:01,972 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:01,972 - DEBUG -
+https://bandcamp.com/tag/alternative
+2021-11-20 01:54:01,982 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:01,982 - DEBUG -
+https://bandcamp.com/tag/hip-hop-rap
+2021-11-20 01:54:01,993 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:01,993 - DEBUG -
+https://bandcamp.com/tag/ambient
+2021-11-20 01:54:02,003 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,004 - DEBUG -
+https://bandcamp.com/tag/metal
+2021-11-20 01:54:02,014 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,014 - DEBUG -
+https://bandcamp.com/tag/punk
+2021-11-20 01:54:02,023 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,024 - DEBUG -
+https://bandcamp.com/tag/indie
+2021-11-20 01:54:02,033 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,034 - DEBUG -
+https://bandcamp.com/tag/noise
+2021-11-20 01:54:02,044 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,044 - DEBUG -
+https://bandcamp.com/tag/techno
+2021-11-20 01:54:02,054 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,054 - DEBUG -
+https://bandcamp.com/tag/indie-rock
+2021-11-20 01:54:02,064 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,064 - DEBUG -
+https://bandcamp.com/tag/pop
+2021-11-20 01:54:02,074 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,074 - DEBUG -
+https://bandcamp.com/tag/instrumental
+2021-11-20 01:54:02,083 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,083 - DEBUG -
+https://bandcamp.com/tag/hip-hop
+2021-11-20 01:54:02,092 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,092 - DEBUG -
+https://bandcamp.com/tag/drone
+2021-11-20 01:54:02,102 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,102 - DEBUG -
+https://bandcamp.com/tag/rap
+2021-11-20 01:54:02,111 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,111 - DEBUG -
+https://bandcamp.com/tag/folk
+2021-11-20 01:54:02,122 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,122 - DEBUG -
+https://bandcamp.com/tag/acoustic
+2021-11-20 01:54:02,132 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,132 - DEBUG -
+https://bandcamp.com/tag/house
+2021-11-20 01:54:02,142 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,142 - DEBUG -
+https://bandcamp.com/tag/electronica
+2021-11-20 01:54:02,152 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,152 - DEBUG -
+https://bandcamp.com/tag/psychedelic
+2021-11-20 01:54:02,162 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,162 - DEBUG -
+https://bandcamp.com/tag/singer-songwriter
+2021-11-20 01:54:02,171 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,172 - DEBUG -
+https://bandcamp.com/tag/hardcore
+2021-11-20 01:54:02,181 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,181 - DEBUG -
+https://bandcamp.com/tag/lo-fi
+2021-11-20 01:54:02,192 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,192 - DEBUG -
+https://bandcamp.com/tag/dark-ambient
+2021-11-20 01:54:02,201 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,202 - DEBUG -
+https://bandcamp.com/tag/industrial
+2021-11-20 01:54:02,208 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,208 - DEBUG -
+https://bandcamp.com/tag/jazz
+2021-11-20 01:54:02,214 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,215 - DEBUG -
+https://bandcamp.com/tag/alternative-rock
+2021-11-20 01:54:02,221 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,221 - DEBUG -
+https://bandcamp.com/tag/hip-hop
+2021-11-20 01:54:02,227 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,227 - DEBUG -
+https://bandcamp.com/tag/indie-pop
+2021-11-20 01:54:02,233 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,233 - DEBUG -
+https://bandcamp.com/tag/experimental-electronic
+2021-11-20 01:54:02,238 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,239 - DEBUG -
+https://bandcamp.com/tag/world
+2021-11-20 01:54:02,244 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,244 - DEBUG -
+https://bandcamp.com/tag/beats
+2021-11-20 01:54:02,249 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,249 - DEBUG -
+https://bandcamp.com/tag/electro
+2021-11-20 01:54:02,255 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,256 - DEBUG -
+https://bandcamp.com/tag/lofi
+2021-11-20 01:54:02,261 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,261 - DEBUG -
+https://bandcamp.com/tag/black-metal
+2021-11-20 01:54:02,266 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,267 - DEBUG -
+https://bandcamp.com/tag/soundtrack
+2021-11-20 01:54:02,272 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,272 - DEBUG -
+https://bandcamp.com/tag/post-rock
+2021-11-20 01:54:02,277 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,278 - DEBUG -
+https://bandcamp.com/tag/punk-rock
+2021-11-20 01:54:02,283 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,283 - DEBUG -
+https://bandcamp.com/tag/soul
+2021-11-20 01:54:02,288 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,288 - DEBUG -
+https://bandcamp.com/tag/post-punk
+2021-11-20 01:54:02,293 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,293 - DEBUG -
+https://bandcamp.com/tag/deep-house
+2021-11-20 01:54:02,299 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,299 - DEBUG -
+https://bandcamp.com/tag/shoegaze
+2021-11-20 01:54:02,304 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,304 - DEBUG -
+https://bandcamp.com/tag/downtempo
+2021-11-20 01:54:02,309 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,309 - DEBUG -
+https://bandcamp.com/tag/death-metal
+2021-11-20 01:54:02,314 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,314 - DEBUG -
+https://bandcamp.com/tag/funk
+2021-11-20 01:54:02,320 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,320 - DEBUG -
+https://bandcamp.com/tag/dance
+2021-11-20 01:54:02,326 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,326 - DEBUG -
+https://bandcamp.com/tag/avant-garde
+2021-11-20 01:54:02,331 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,331 - DEBUG -
+https://bandcamp.com/tag/minimal
+2021-11-20 01:54:02,337 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,337 - DEBUG -
+https://bandcamp.com/tag/blues
+2021-11-20 01:54:02,342 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,343 - DEBUG -
+https://bandcamp.com/tag/idm
+2021-11-20 01:54:02,348 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,348 - DEBUG -
+https://bandcamp.com/tag/improvisation
+2021-11-20 01:54:02,353 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,354 - DEBUG -
+https://bandcamp.com/tag/progressive
+2021-11-20 01:54:02,359 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,359 - DEBUG -
+https://bandcamp.com/tag/vaporwave
+2021-11-20 01:54:02,364 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,364 - DEBUG -
+https://bandcamp.com/tag/synthwave
+2021-11-20 01:54:02,369 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,370 - DEBUG -
+https://bandcamp.com/tag/emo
+2021-11-20 01:54:02,374 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,374 - DEBUG -
+https://bandcamp.com/tag/dub
+2021-11-20 01:54:02,381 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,382 - DEBUG -
+https://bandcamp.com/tag/synthpop
+2021-11-20 01:54:02,391 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,391 - DEBUG -
+https://bandcamp.com/tag/trap
+2021-11-20 01:54:02,400 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,401 - DEBUG -
+https://bandcamp.com/tag/indie-folk
+2021-11-20 01:54:02,406 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,406 - DEBUG -
+https://bandcamp.com/tag/drum-bass
+2021-11-20 01:54:02,412 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,412 - DEBUG -
+https://bandcamp.com/tag/underground
+2021-11-20 01:54:02,417 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,418 - DEBUG -
+https://bandcamp.com/tag/synth
+2021-11-20 01:54:02,422 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,423 - DEBUG -
+https://bandcamp.com/tag/underground-hip-hop
+2021-11-20 01:54:02,427 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,427 - DEBUG -
+https://bandcamp.com/tag/r-b
+2021-11-20 01:54:02,432 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,432 - DEBUG -
+https://bandcamp.com/tag/folk-rock
+2021-11-20 01:54:02,437 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,437 - DEBUG -
+https://bandcamp.com/tag/garage
+2021-11-20 01:54:02,442 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,442 - DEBUG -
+https://bandcamp.com/tag/piano
+2021-11-20 01:54:02,447 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,447 - DEBUG -
+https://bandcamp.com/tag/dubstep
+2021-11-20 01:54:02,452 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,452 - DEBUG -
+https://bandcamp.com/tag/instrumental-hip-hop
+2021-11-20 01:54:02,457 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,457 - DEBUG -
+https://bandcamp.com/tag/ambient-electronic
+2021-11-20 01:54:02,463 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,463 - DEBUG -
+https://bandcamp.com/tag/pop-rock
+2021-11-20 01:54:02,468 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,469 - DEBUG -
+https://bandcamp.com/tag/chillout
+2021-11-20 01:54:02,473 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,474 - DEBUG -
+https://bandcamp.com/tag/americana
+2021-11-20 01:54:02,478 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,478 - DEBUG -
+https://bandcamp.com/tag/guitar
+2021-11-20 01:54:02,483 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,484 - DEBUG -
+https://bandcamp.com/tag/electronic-music
+2021-11-20 01:54:02,488 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,489 - DEBUG -
+https://bandcamp.com/tag/chill
+2021-11-20 01:54:02,494 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,494 - DEBUG -
+https://bandcamp.com/tag/tech-house
+2021-11-20 01:54:02,499 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,499 - DEBUG -
+https://bandcamp.com/tag/progressive-rock
+2021-11-20 01:54:02,504 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,504 - DEBUG -
+https://bandcamp.com/tag/hardcore-punk
+2021-11-20 01:54:02,509 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,509 - DEBUG -
+https://bandcamp.com/tag/harsh-noise
+2021-11-20 01:54:02,514 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,514 - DEBUG -
+https://bandcamp.com/tag/pop-punk
+2021-11-20 01:54:02,519 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,519 - DEBUG -
+https://bandcamp.com/tag/psychedelic-rock
+2021-11-20 01:54:02,524 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,525 - DEBUG -
+https://bandcamp.com/tag/soundscape
+2021-11-20 01:54:02,529 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,530 - DEBUG -
+https://bandcamp.com/tag/classical
+2021-11-20 01:54:02,536 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,536 - DEBUG -
+https://bandcamp.com/tag/atmospheric
+2021-11-20 01:54:02,541 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,541 - DEBUG -
+https://bandcamp.com/tag/grunge
+2021-11-20 01:54:02,546 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,546 - DEBUG -
+https://bandcamp.com/tag/garage-rock
+2021-11-20 01:54:02,551 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,551 - DEBUG -
+https://bandcamp.com/tag/psytrance
+2021-11-20 01:54:02,557 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,557 - DEBUG -
+https://bandcamp.com/tag/dream-pop
+2021-11-20 01:54:02,562 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,562 - DEBUG -
+https://bandcamp.com/tag/edm
+2021-11-20 01:54:02,566 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,567 - DEBUG -
+https://bandcamp.com/tag/hard-rock
+2021-11-20 01:54:02,572 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,572 - DEBUG -
+https://bandcamp.com/tag/trance
+2021-11-20 01:54:02,577 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,577 - DEBUG -
+https://bandcamp.com/tag/reggae
+2021-11-20 01:54:02,582 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,582 - DEBUG -
+https://bandcamp.com/tag/country
+2021-11-20 01:54:02,587 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,587 - DEBUG -
+https://bandcamp.com/tag/bass
+2021-11-20 01:54:02,593 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,593 - DEBUG -
+https://bandcamp.com/tag/hiphop
+2021-11-20 01:54:02,598 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,598 - DEBUG -
+https://bandcamp.com/tag/diy
+2021-11-20 01:54:02,603 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,603 - DEBUG -
+https://bandcamp.com/tag/grindcore
+2021-11-20 01:54:02,608 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,609 - DEBUG -
+https://bandcamp.com/tag/devotional
+2021-11-20 01:54:02,614 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,614 - DEBUG -
+https://bandcamp.com/tag/trip-hop
+2021-11-20 01:54:02,619 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,619 - DEBUG -
+https://bandcamp.com/tag/doom
+2021-11-20 01:54:02,624 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,624 - DEBUG -
+https://bandcamp.com/tag/noise-rock
+2021-11-20 01:54:02,629 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,629 - DEBUG -
+https://bandcamp.com/tag/acid
+2021-11-20 01:54:02,634 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,634 - DEBUG -
+https://bandcamp.com/tag/new-wave
+2021-11-20 01:54:02,639 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,639 - DEBUG -
+https://bandcamp.com/tag/experimental-rock
+2021-11-20 01:54:02,644 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,644 - DEBUG -
+https://bandcamp.com/tag/dark
+2021-11-20 01:54:02,649 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,649 - DEBUG -
+https://bandcamp.com/tag/glitch
+2021-11-20 01:54:02,654 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,654 - DEBUG -
+https://bandcamp.com/tag/darkwave
+2021-11-20 01:54:02,659 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,659 - DEBUG -
+https://bandcamp.com/tag/post-hardcore
+2021-11-20 01:54:02,665 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,665 - DEBUG -
+https://bandcamp.com/tag/r-b-soul
+2021-11-20 01:54:02,670 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,670 - DEBUG -
+https://bandcamp.com/tag/experiemental
+2021-11-20 01:54:02,675 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,675 - DEBUG -
+https://bandcamp.com/tag/heavy-metal
+2021-11-20 01:54:02,680 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,680 - DEBUG -
+https://bandcamp.com/tag/thrash-metal
+2021-11-20 01:54:02,685 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,685 - DEBUG -
+https://bandcamp.com/tag/spoken-word
+2021-11-20 01:54:02,692 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,692 - DEBUG -
+https://bandcamp.com/tag/new-age
+2021-11-20 01:54:02,697 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,697 - DEBUG -
+https://bandcamp.com/tag/doom-metal
+2021-11-20 01:54:02,702 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,702 - DEBUG -
+https://bandcamp.com/tag/electroacoustic
+2021-11-20 01:54:02,707 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,707 - DEBUG -
+https://bandcamp.com/tag/sound-art
+2021-11-20 01:54:02,712 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,712 - DEBUG -
+https://bandcamp.com/tag/disco
+2021-11-20 01:54:02,717 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,717 - DEBUG -
+https://bandcamp.com/tag/field-recordings
+2021-11-20 01:54:02,722 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,722 - DEBUG -
+https://bandcamp.com/tag/free-jazz
+2021-11-20 01:54:02,727 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,727 - DEBUG -
+https://bandcamp.com/tag/world-music
+2021-11-20 01:54:02,732 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,732 - DEBUG -
+https://bandcamp.com/tag/chillwave
+2021-11-20 01:54:02,737 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,737 - DEBUG -
+https://bandcamp.com/tag/metalcore
+2021-11-20 01:54:02,742 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,743 - DEBUG -
+https://bandcamp.com/tag/breakbeat
+2021-11-20 01:54:02,748 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,748 - DEBUG -
+https://bandcamp.com/tag/cinematic
+2021-11-20 01:54:02,753 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,753 - DEBUG -
+https://bandcamp.com/tag/rock-roll
+2021-11-20 01:54:02,758 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,758 - DEBUG -
+https://bandcamp.com/tag/meditation
+2021-11-20 01:54:02,763 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,763 - DEBUG -
+https://bandcamp.com/tag/chiptune
+2021-11-20 01:54:02,768 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,768 - DEBUG -
+https://bandcamp.com/tag/progressive-metal
+2021-11-20 01:54:02,773 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,773 - DEBUG -
+https://bandcamp.com/tag/jungle
+2021-11-20 01:54:02,778 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,778 - DEBUG -
+https://bandcamp.com/tag/orchestral
+2021-11-20 01:54:02,783 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,783 - DEBUG -
+https://bandcamp.com/tag/acoustic-guitar
+2021-11-20 01:54:02,788 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,788 - DEBUG -
+https://bandcamp.com/tag/bedroom-pop
+2021-11-20 01:54:02,793 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,793 - DEBUG -
+https://bandcamp.com/tag/music
+2021-11-20 01:54:02,798 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,798 - DEBUG -
+https://bandcamp.com/tag/stoner-rock
+2021-11-20 01:54:02,803 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,803 - DEBUG -
+https://bandcamp.com/tag/black-bandcamp
+2021-11-20 01:54:02,808 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,808 - DEBUG -
+https://bandcamp.com/tag/boom-bap
+2021-11-20 01:54:02,813 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,813 - DEBUG -
+https://bandcamp.com/tag/breaks
+2021-11-20 01:54:02,819 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,819 - DEBUG -
+https://bandcamp.com/tag/fusion
+2021-11-20 01:54:02,824 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,824 - DEBUG -
+https://bandcamp.com/tag/instrumentals
+2021-11-20 01:54:02,829 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,829 - DEBUG -
+https://bandcamp.com/tag/blues-rock
+2021-11-20 01:54:02,835 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,835 - DEBUG -
+https://bandcamp.com/tag/power-pop
+2021-11-20 01:54:02,840 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,840 - DEBUG -
+https://bandcamp.com/tag/sludge
+2021-11-20 01:54:02,845 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,845 - DEBUG -
+https://bandcamp.com/tag/musique-concrete
+2021-11-20 01:54:02,850 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,850 - DEBUG -
+https://bandcamp.com/tag/alternative-pop
+2021-11-20 01:54:02,855 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,855 - DEBUG -
+https://bandcamp.com/tag/electropop
+2021-11-20 01:54:02,860 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,860 - DEBUG -
+https://bandcamp.com/tag/drone-ambient
+2021-11-20 01:54:02,865 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,865 - DEBUG -
+https://bandcamp.com/tag/comedy
+2021-11-20 01:54:02,870 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,870 - DEBUG -
+https://bandcamp.com/tag/alt-country
+2021-11-20 01:54:02,875 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,875 - DEBUG -
+https://bandcamp.com/tag/soundscapes
+2021-11-20 01:54:02,882 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,883 - DEBUG -
+https://bandcamp.com/tag/bass-music
+2021-11-20 01:54:02,891 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,891 - DEBUG -
+https://bandcamp.com/tag/deep
+2021-11-20 01:54:02,900 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,900 - DEBUG -
+https://bandcamp.com/tag/abstract
+2021-11-20 01:54:02,907 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,907 - DEBUG -
+https://bandcamp.com/tag/melodic
+2021-11-20 01:54:02,914 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,914 - DEBUG -
+https://bandcamp.com/tag/roots
+2021-11-20 01:54:02,923 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,923 - DEBUG -
+https://bandcamp.com/tag/free-improvisation
+2021-11-20 01:54:02,932 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,932 - DEBUG -
+https://bandcamp.com/tag/space
+2021-11-20 01:54:02,941 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,941 - DEBUG -
+https://bandcamp.com/tag/goth
+2021-11-20 01:54:02,948 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,948 - DEBUG -
+https://bandcamp.com/tag/contemporary
+2021-11-20 01:54:02,953 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,954 - DEBUG -
+https://bandcamp.com/tag/math-rock
+2021-11-20 01:54:02,959 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,959 - DEBUG -
+https://bandcamp.com/tag/art-rock
+2021-11-20 01:54:02,964 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,964 - DEBUG -
+https://bandcamp.com/tag/stoner
+2021-11-20 01:54:02,969 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,969 - DEBUG -
+https://bandcamp.com/tag/psych
+2021-11-20 01:54:02,974 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,974 - DEBUG -
+https://bandcamp.com/tag/power-electronics
+2021-11-20 01:54:02,979 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,979 - DEBUG -
+https://bandcamp.com/tag/harsh-noise-wall
+2021-11-20 01:54:02,985 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,985 - DEBUG -
+https://bandcamp.com/tag/folk-punk
+2021-11-20 01:54:02,990 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,990 - DEBUG -
+https://bandcamp.com/tag/experimental-hip-hop
+2021-11-20 01:54:02,996 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:02,996 - DEBUG -
+https://bandcamp.com/tag/ebm
+2021-11-20 01:54:03,001 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,001 - DEBUG -
+https://bandcamp.com/tag/live
+2021-11-20 01:54:03,007 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,007 - DEBUG -
+https://bandcamp.com/tag/breakcore
+2021-11-20 01:54:03,012 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,012 - DEBUG -
+https://bandcamp.com/tag/progressive-house
+2021-11-20 01:54:03,017 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,017 - DEBUG -
+https://bandcamp.com/tag/space-rock
+2021-11-20 01:54:03,023 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,023 - DEBUG -
+https://bandcamp.com/tag/garage-punk
+2021-11-20 01:54:03,029 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,029 - DEBUG -
+https://bandcamp.com/tag/krautrock
+2021-11-20 01:54:03,034 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,035 - DEBUG -
+https://bandcamp.com/tag/latin
+2021-11-20 01:54:03,039 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,040 - DEBUG -
+https://bandcamp.com/tag/poetry
+2021-11-20 01:54:03,045 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,045 - DEBUG -
+https://bandcamp.com/tag/
+2021-11-20 01:54:03,050 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,050 - DEBUG -
+https://bandcamp.com/tag/retrowave
+2021-11-20 01:54:03,055 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,055 - DEBUG -
+https://bandcamp.com/tag/improv
+2021-11-20 01:54:03,060 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,060 - DEBUG -
+https://bandcamp.com/tag/improvised-music
+2021-11-20 01:54:03,065 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,065 - DEBUG -
+https://bandcamp.com/tag/rave
+2021-11-20 01:54:03,071 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,071 - DEBUG -
+https://bandcamp.com/tag/psychedelic-trance
+2021-11-20 01:54:03,076 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,076 - DEBUG -
+https://bandcamp.com/tag/independent
+2021-11-20 01:54:03,081 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,081 - DEBUG -
+https://bandcamp.com/tag/minimalism
+2021-11-20 01:54:03,086 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,086 - DEBUG -
+https://bandcamp.com/tag/surf
+2021-11-20 01:54:03,091 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,091 - DEBUG -
+https://bandcamp.com/tag/drum-and-bass
+2021-11-20 01:54:03,095 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,095 - DEBUG -
+https://bandcamp.com/tag/hip-hop-instrumentals
+2021-11-20 01:54:03,100 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,100 - DEBUG -
+https://bandcamp.com/tag/remix
+2021-11-20 01:54:03,105 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,105 - DEBUG -
+https://bandcamp.com/tag/dub-techno
+2021-11-20 01:54:03,110 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,110 - DEBUG -
+https://bandcamp.com/tag/alternative-hip-hop
+2021-11-20 01:54:03,115 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,115 - DEBUG -
+https://bandcamp.com/tag/gothic
+2021-11-20 01:54:03,120 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,120 - DEBUG -
+https://bandcamp.com/tag/dungeon-synth
+2021-11-20 01:54:03,125 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,125 - DEBUG -
+https://bandcamp.com/tag/ska
+2021-11-20 01:54:03,130 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,130 - DEBUG -
+https://bandcamp.com/tag/techno.
+2021-11-20 01:54:03,134 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,134 - DEBUG -
+https://bandcamp.com/tag/plunderphonics
+2021-11-20 01:54:03,139 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,139 - DEBUG -
+https://bandcamp.com/tag/80s
+2021-11-20 01:54:03,144 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,144 - DEBUG -
+https://bandcamp.com/tag/minimal-techno
+2021-11-20 01:54:03,149 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,149 - DEBUG -
+https://bandcamp.com/tag/bedroom
+2021-11-20 01:54:03,154 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,154 - DEBUG -
+https://bandcamp.com/tag/weird
+2021-11-20 01:54:03,159 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,159 - DEBUG -
+https://bandcamp.com/tag/samples
+2021-11-20 01:54:03,163 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,164 - DEBUG -
+https://bandcamp.com/tag/modern-classical
+2021-11-20 01:54:03,169 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,169 - DEBUG -
+https://bandcamp.com/tag/christian
+2021-11-20 01:54:03,174 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,174 - DEBUG -
+https://bandcamp.com/tag/synthesizer
+2021-11-20 01:54:03,180 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,180 - DEBUG -
+https://bandcamp.com/tag/rock-and-roll
+2021-11-20 01:54:03,186 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,186 - DEBUG -
+https://bandcamp.com/tag/post-metal
+2021-11-20 01:54:03,191 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,191 - DEBUG -
+https://bandcamp.com/tag/dnb
+2021-11-20 01:54:03,197 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,197 - DEBUG -
+https://bandcamp.com/tag/screamo
+2021-11-20 01:54:03,206 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,206 - DEBUG -
+https://bandcamp.com/tag/folk-pop
+2021-11-20 01:54:03,215 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,216 - DEBUG -
+https://bandcamp.com/tag/crust
+2021-11-20 01:54:03,224 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,224 - DEBUG -
+https://bandcamp.com/tag/atmospheric-black-metal
+2021-11-20 01:54:03,233 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,233 - DEBUG -
+https://bandcamp.com/tag/beat-tape
+2021-11-20 01:54:03,243 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,243 - DEBUG -
+https://bandcamp.com/tag/nu-disco
+2021-11-20 01:54:03,252 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,252 - DEBUG -
+https://bandcamp.com/tag/prog
+2021-11-20 01:54:03,261 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,261 - DEBUG -
+https://bandcamp.com/tag/acoustic-rock
+2021-11-20 01:54:03,270 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,270 - DEBUG -
+https://bandcamp.com/tag/songwriter
+2021-11-20 01:54:03,279 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,279 - DEBUG -
+https://bandcamp.com/tag/spiritual
+2021-11-20 01:54:03,288 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,288 - DEBUG -
+https://bandcamp.com/tag/synth-pop
+2021-11-20 01:54:03,296 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,297 - DEBUG -
+https://bandcamp.com/tag/avantgarde
+2021-11-20 01:54:03,305 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,306 - DEBUG -
+https://bandcamp.com/tag/horror
+2021-11-20 01:54:03,311 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,311 - DEBUG -
+https://bandcamp.com/tag/experimental-pop
+2021-11-20 01:54:03,316 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,316 - DEBUG -
+https://bandcamp.com/tag/film-music
+2021-11-20 01:54:03,321 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,321 - DEBUG -
+https://bandcamp.com/tag/groove
+2021-11-20 01:54:03,326 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,326 - DEBUG -
+https://bandcamp.com/tag/house-music
+2021-11-20 01:54:03,330 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,330 - DEBUG -
+https://bandcamp.com/tag/deep-techno
+2021-11-20 01:54:03,335 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,335 - DEBUG -
+https://bandcamp.com/tag/thrash
+2021-11-20 01:54:03,340 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,340 - DEBUG -
+https://bandcamp.com/tag/powerviolence
+2021-11-20 01:54:03,345 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,345 - DEBUG -
+https://bandcamp.com/tag/underground-rap
+2021-11-20 01:54:03,349 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,349 - DEBUG -
+https://bandcamp.com/tag/contemporary-classical
+2021-11-20 01:54:03,354 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,354 - DEBUG -
+https://bandcamp.com/tag/avant-garde
+2021-11-20 01:54:03,359 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,359 - DEBUG -
+https://bandcamp.com/tag/boombap
+2021-11-20 01:54:03,363 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,364 - DEBUG -
+https://bandcamp.com/tag/neo-soul
+2021-11-20 01:54:03,368 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,368 - DEBUG -
+https://bandcamp.com/tag/field-recording
+2021-11-20 01:54:03,373 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,373 - DEBUG -
+https://bandcamp.com/tag/minimalist
+2021-11-20 01:54:03,378 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,378 - DEBUG -
+https://bandcamp.com/tag/loops
+2021-11-20 01:54:03,383 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,383 - DEBUG -
+https://bandcamp.com/tag/noise-pop
+2021-11-20 01:54:03,388 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,388 - DEBUG -
+https://bandcamp.com/tag/classic-rock
+2021-11-20 01:54:03,392 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,392 - DEBUG -
+https://bandcamp.com/tag/dreampop
+2021-11-20 01:54:03,397 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,397 - DEBUG -
+https://bandcamp.com/tag/video-game
+2021-11-20 01:54:03,402 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,402 - DEBUG -
+https://bandcamp.com/tag/video-game-music
+2021-11-20 01:54:03,406 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,406 - DEBUG -
+https://bandcamp.com/tag/female-vocals
+2021-11-20 01:54:03,411 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,411 - DEBUG -
+https://bandcamp.com/tag/kids
+2021-11-20 01:54:03,416 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,416 - DEBUG -
+https://bandcamp.com/tag/grime
+2021-11-20 01:54:03,421 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,421 - DEBUG -
+https://bandcamp.com/tag/prog-rock
+2021-11-20 01:54:03,425 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,425 - DEBUG -
+https://bandcamp.com/tag/heavy
+2021-11-20 01:54:03,430 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,430 - DEBUG -
+https://bandcamp.com/tag/retro
+2021-11-20 01:54:03,435 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,435 - DEBUG -
+https://bandcamp.com/tag/improvised
+2021-11-20 01:54:03,440 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,440 - DEBUG -
+https://bandcamp.com/tag/rnb
+2021-11-20 01:54:03,445 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,445 - DEBUG -
+https://bandcamp.com/tag/deathcore
+2021-11-20 01:54:03,450 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,450 - DEBUG -
+https://bandcamp.com/tag/tokyo%2C-japan
+2021-11-20 01:54:03,455 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,455 - DEBUG -
+https://bandcamp.com/tag/drums
+2021-11-20 01:54:03,460 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,460 - DEBUG -
+https://bandcamp.com/tag/post-rock
+2021-11-20 01:54:03,465 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,465 - DEBUG -
+https://bandcamp.com/tag/rap-hip-hop
+2021-11-20 01:54:03,470 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,470 - DEBUG -
+https://bandcamp.com/tag/instrumental-rock
+2021-11-20 01:54:03,475 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,475 - DEBUG -
+https://bandcamp.com/tag/cassette
+2021-11-20 01:54:03,480 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,480 - DEBUG -
+https://bandcamp.com/tag/jam
+2021-11-20 01:54:03,484 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,484 - DEBUG -
+https://bandcamp.com/tag/vocal
+2021-11-20 01:54:03,489 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,489 - DEBUG -
+https://bandcamp.com/tag/tape
+2021-11-20 01:54:03,494 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,494 - DEBUG -
+https://bandcamp.com/tag/neoclassical
+2021-11-20 01:54:03,499 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,499 - DEBUG -
+https://bandcamp.com/tag/sad
+2021-11-20 01:54:03,504 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,504 - DEBUG -
+https://bandcamp.com/tag/jazz-and-improvised-music
+2021-11-20 01:54:03,509 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,509 - DEBUG -
+https://bandcamp.com/tag/lounge
+2021-11-20 01:54:03,514 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,514 - DEBUG -
+https://bandcamp.com/tag/noisecore
+2021-11-20 01:54:03,519 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,519 - DEBUG -
+https://bandcamp.com/tag/hard-techno
+2021-11-20 01:54:03,523 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,524 - DEBUG -
+https://bandcamp.com/tag/jazzy
+2021-11-20 01:54:03,528 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,529 - DEBUG -
+https://bandcamp.com/tag/jazz-fusion
+2021-11-20 01:54:03,533 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,534 - DEBUG -
+https://bandcamp.com/tag/indiepop
+2021-11-20 01:54:03,538 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,538 - DEBUG -
+https://bandcamp.com/tag/chillhop
+2021-11-20 01:54:03,543 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,543 - DEBUG -
+https://bandcamp.com/tag/melodic-hardcore
+2021-11-20 01:54:03,548 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,548 - DEBUG -
+https://bandcamp.com/tag/space-music
+2021-11-20 01:54:03,553 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,553 - DEBUG -
+https://bandcamp.com/tag/holland
+2021-11-20 01:54:03,558 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,559 - DEBUG -
+https://bandcamp.com/tag/dance-music
+2021-11-20 01:54:03,564 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,564 - DEBUG -
+https://bandcamp.com/tag/analog
+2021-11-20 01:54:03,569 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,569 - DEBUG -
+https://bandcamp.com/tag/love
+2021-11-20 01:54:03,574 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,574 - DEBUG -
+https://bandcamp.com/tag/future-bass
+2021-11-20 01:54:03,578 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,579 - DEBUG -
+https://bandcamp.com/tag/hnw
+2021-11-20 01:54:03,584 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,584 - DEBUG -
+https://bandcamp.com/tag/free
+2021-11-20 01:54:03,589 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,589 - DEBUG -
+https://bandcamp.com/tag/heavy-rock
+2021-11-20 01:54:03,594 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,594 - DEBUG -
+https://bandcamp.com/tag/stoner-metal
+2021-11-20 01:54:03,599 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,599 - DEBUG -
+https://bandcamp.com/tag/soulful
+2021-11-20 01:54:03,606 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,607 - DEBUG -
+https://bandcamp.com/tag/sample-based
+2021-11-20 01:54:03,612 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,612 - DEBUG -
+https://bandcamp.com/tag/surf-rock
+2021-11-20 01:54:03,617 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,617 - DEBUG -
+https://bandcamp.com/tag/post-punk
+2021-11-20 01:54:03,623 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,623 - DEBUG -
+https://bandcamp.com/tag/cyberpunk
+2021-11-20 01:54:03,628 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,628 - DEBUG -
+https://bandcamp.com/tag/neo-classical
+2021-11-20 01:54:03,634 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,634 - DEBUG -
+https://bandcamp.com/tag/bluegrass
+2021-11-20 01:54:03,640 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,640 - DEBUG -
+https://bandcamp.com/tag/djent
+2021-11-20 01:54:03,646 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,646 - DEBUG -
+https://bandcamp.com/tag/art
+2021-11-20 01:54:03,650 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,651 - DEBUG -
+https://bandcamp.com/tag/leftfield
+2021-11-20 01:54:03,656 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,656 - DEBUG -
+https://bandcamp.com/tag/raw-black-metal
+2021-11-20 01:54:03,661 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,662 - DEBUG -
+https://bandcamp.com/tag/dancehall
+2021-11-20 01:54:03,667 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,667 - DEBUG -
+https://bandcamp.com/tag/grind
+2021-11-20 01:54:03,672 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,672 - DEBUG -
+https://bandcamp.com/tag/gospel
+2021-11-20 01:54:03,677 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,678 - DEBUG -
+https://bandcamp.com/tag/funky
+2021-11-20 01:54:03,682 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,682 - DEBUG -
+https://bandcamp.com/tag/witch-house
+2021-11-20 01:54:03,688 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,688 - DEBUG -
+https://bandcamp.com/tag/christmas
+2021-11-20 01:54:03,695 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,695 - DEBUG -
+https://bandcamp.com/tag/sludge-metal
+2021-11-20 01:54:03,701 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,701 - DEBUG -
+https://bandcamp.com/tag/rock%27n%27roll
+2021-11-20 01:54:03,707 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,707 - DEBUG -
+https://bandcamp.com/tag/punkrock
+2021-11-20 01:54:03,714 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,714 - DEBUG -
+https://bandcamp.com/tag/swing
+2021-11-20 01:54:03,719 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,719 - DEBUG -
+https://bandcamp.com/tag/easy-listening
+2021-11-20 01:54:03,724 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,724 - DEBUG -
+https://bandcamp.com/tag/sound-collage
+2021-11-20 01:54:03,730 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,730 - DEBUG -
+https://bandcamp.com/tag/future-funk
+2021-11-20 01:54:03,735 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,735 - DEBUG -
+https://bandcamp.com/tag/progressive-trance
+2021-11-20 01:54:03,740 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,740 - DEBUG -
+https://bandcamp.com/tag/melodic-death-metal
+2021-11-20 01:54:03,744 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,745 - DEBUG -
+https://bandcamp.com/tag/meditative
+2021-11-20 01:54:03,749 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,749 - DEBUG -
+https://bandcamp.com/tag/chill-out
+2021-11-20 01:54:03,754 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,754 - DEBUG -
+https://bandcamp.com/tag/club
+2021-11-20 01:54:03,759 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,759 - DEBUG -
+https://bandcamp.com/tag/rock-n-roll
+2021-11-20 01:54:03,764 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,764 - DEBUG -
+https://bandcamp.com/tag/dreamy
+2021-11-20 01:54:03,768 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,768 - DEBUG -
+https://bandcamp.com/tag/beat
+2021-11-20 01:54:03,773 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,773 - DEBUG -
+https://bandcamp.com/tag/punk-hardcore
+2021-11-20 01:54:03,778 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,778 - DEBUG -
+https://bandcamp.com/tag/triphop
+2021-11-20 01:54:03,783 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,783 - DEBUG -
+https://bandcamp.com/tag/coldwave
+2021-11-20 01:54:03,789 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,789 - DEBUG -
+https://bandcamp.com/tag/tribal
+2021-11-20 01:54:03,793 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,794 - DEBUG -
+https://bandcamp.com/tag/piano-solo
+2021-11-20 01:54:03,798 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,798 - DEBUG -
+https://bandcamp.com/tag/footwork
+2021-11-20 01:54:03,803 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,803 - DEBUG -
+https://bandcamp.com/tag/glitch-hop
+2021-11-20 01:54:03,809 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,809 - DEBUG -
+https://bandcamp.com/tag/relaxation
+2021-11-20 01:54:03,814 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,814 - DEBUG -
+https://bandcamp.com/tag/industrial-techno
+2021-11-20 01:54:03,819 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,820 - DEBUG -
+https://bandcamp.com/tag/postrock
+2021-11-20 01:54:03,825 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,825 - DEBUG -
+https://bandcamp.com/tag/ambient-rock
+2021-11-20 01:54:03,830 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,830 - DEBUG -
+https://bandcamp.com/tag/microhouse
+2021-11-20 01:54:03,835 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,835 - DEBUG -
+https://bandcamp.com/tag/modular
+2021-11-20 01:54:03,840 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,840 - DEBUG -
+https://bandcamp.com/tag/psychedelic-pop
+2021-11-20 01:54:03,845 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,846 - DEBUG -
+https://bandcamp.com/tag/deep-tech
+2021-11-20 01:54:03,851 - DEBUG -
+
+CYCLING THROUGH location_tags:
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/united-kingdom
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/california
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/england
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/canada
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/germany
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/france
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/new-york
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/australia
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/usa
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/spain
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/russia
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/italy
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/los-angeles
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/texas
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/illinois
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/ontario
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/london
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/pennsylvania
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/japan
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/berlin
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/argentina
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/chicago
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/washington
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/florida
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/brazil
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/massachusetts
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/netherlands
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/michigan
+2021-11-20 01:54:03,851 - DEBUG -
+https://bandcamp.com/tag/oregon
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/ohio
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/qu%C3%A9bec
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/sweden
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/mexico
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/vic
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/seattle
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/toronto
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/melbourne
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/portland
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/british-columbia
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/north-carolina
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/georgia
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/belgium
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/colorado
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/new-jersey
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/poland
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/philadelphia
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/tennessee
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/uk
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/virginia
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/san-francisco
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/portugal
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/minnesota
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/montreal
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/finland
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/boston
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/austin
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/%C3%8Ele-de-france
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/nsw
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/switzerland
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/scotland
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/arizona
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/maryland
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/paris
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/new-zealand
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/greece
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/missouri
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/atlanta
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/chile
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/vancouver
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/ct
+2021-11-20 01:54:03,852 - DEBUG -
+https://bandcamp.com/tag/indiana
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/wisconsin
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/brooklyn
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/nrw
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/denmark
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/denver
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/austria
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/idf
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/ireland
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/ukraine
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/minneapolis
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/norway
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/sydney
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/detroit
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/barcelona
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/nashville
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/caba
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/buenos-aires
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/tokyo
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/israel
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/connecticut
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/hungary
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/alberta
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/moscow
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/san-diego
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/district-of-columbia
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/community-of-madrid
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/pittsburgh
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/madrid
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/sp
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/oakland
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/qld
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/south-africa
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/manchester
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/baltimore
+2021-11-20 01:54:03,853 - DEBUG -
+https://bandcamp.com/tag/houston
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/colombia
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/kentucky
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/louisiana
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/bristol
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/russian-federation
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/greater-london
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/by
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/nh
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/romania
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/dallas
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/lombardy
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/utah
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/amsterdam
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/phoenix
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/nevada
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/santiago-metropolitan-region
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/indonesia
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/new-mexico
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/richmond
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/south-carolina
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/the-netherlands
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/brisbane
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/lazio
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/s%C3%A3o-paulo
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/glasgow
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/santiago
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/oklahoma
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/maine
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/saint-petersburg
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/iowa
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/india
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/columbus
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/vienna
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/wa
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/miami
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/kansas
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/alabama
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/cleveland
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/cincinnati
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/milwaukee
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/serbia
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/wales
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/china
+2021-11-20 01:54:03,854 - DEBUG -
+https://bandcamp.com/tag/sn
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/rhode-island
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/new-orleans
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/zh
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/hh
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/rome
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/hamburg
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/bw
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/stockholm-county
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/perth
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/lisbon
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/sa
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/stockholm
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/al
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/flanders
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/brighton
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/he
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/south-korea
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/milan
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/peru
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/orlando
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/czech-republic
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/auvergne-rh%C3%B4ne-alpes
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/emilia-romagna
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/sacramento
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/kansas-city
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/montr%C3%A9al
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/cdmx
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/oslo
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/auckland
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/brittany
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/buenos-aires-province
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/pays-de-la-loire
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/adelaide
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/mexico-city
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/indianapolis
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/leeds
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/ottawa
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/calgary
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/cologne
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/manitoba
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/nova-scotia
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/brussels
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/provence-alpes-c%C3%B4te-d%27azur
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/vermont
+2021-11-20 01:54:03,855 - DEBUG -
+https://bandcamp.com/tag/czechia
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/edmonton
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/new-hampshire
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/winnipeg
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/veneto
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/las-vegas
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/asheville
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/salt-lake-city
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/croatia
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/valencian-community
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/malaysia
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/slovakia
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/louisville
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/philippines
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/arkansas
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/st.-louis
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/tampa
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/buffalo
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/masovian-voivodeship
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/munich
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/victoria
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/athens
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/budapest
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/san-antonio
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/rochester
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/slovenia
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/leipzig
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/nds
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/warsaw
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/occitanie
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/providence
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/birmingham
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/nouvelle-aquitaine
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/rj
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/nebraska
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/idaho
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/edinburgh
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/uruguay
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/copenhagen
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/charlotte
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/tucson
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/comunidad-de-madrid
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/turkey
+2021-11-20 01:54:03,856 - DEBUG -
+https://bandcamp.com/tag/rotterdam
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/belarus
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/pv
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/singapore
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/sheffield
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/albuquerque
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/memphis
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/madison
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/raleigh
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/wellington
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/dayton
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/newcastle-upon-tyne
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/nantes
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/hawaii
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/bulgaria
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/iceland
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/lithuania
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/v%C3%A4stra-g%C3%B6taland-county
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/grand-rapids
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/helsinki
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/rs
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/long-beach
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/costa-rica
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/hamilton
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/rio-de-janeiro
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/estonia
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/san-jose
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/olympia
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/bogota
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/west-virginia
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/valencia
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/gp
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/county-dublin
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/piedmont
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/dublin
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/%E6%9D%B1%E4%BA%AC%E9%83%BD
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/attica
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/tuscany
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/ile-de-france
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/marseille
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/latvia
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/mississippi
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/montana
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/campania
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/eugene
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/lyon
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/northern-ireland
+2021-11-20 01:54:03,857 - DEBUG -
+https://bandcamp.com/tag/catalunya
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/liverpool
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/capital-region-of-denmark
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/denton
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/bucharest
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/ga
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/rennes
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/frankfurt
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/gothenburg
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/d.f.
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/albany
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/ecuador
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/new-brunswick
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/thailand
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/nottingham
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/aquitaine
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/bayern
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/tel-aviv-district
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/saskatchewan
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/bologna
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/pm
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/tulsa
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/bloomington
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/mg
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/taiwan
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/grand-est
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/tel-aviv-yafo
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/greater-manchester
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/montevideo-department
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/alaska
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/montevideo
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/uusimaa
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/jacksonville
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/tas
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/fort-worth
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/new-haven
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/nordrhein-westfalen
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/omaha
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/ra
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/north-rhine-westphalia
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/wc
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/venezuela
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/oklahoma-city
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/delaware
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/hlavn%C3%AD-m%C4%9Bsto-praha
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/halifax
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/newfoundland-and-labrador
+2021-11-20 01:54:03,858 - DEBUG -
+https://bandcamp.com/tag/porto-district
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/gainesville
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/midi-pyr%C3%A9n%C3%A9es
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/boulder
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/zuid-holland
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/bellingham
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/kyiv
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/noord-holland
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/seoul
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/antarctica
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING genre_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/electronic
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/experimental
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/rock
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/alternative
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/hip-hop-rap
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/ambient
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/metal
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/punk
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/indie
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/noise
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/techno
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/indie-rock
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/pop
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/instrumental
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/hip-hop
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/drone
+2021-11-20 01:54:03,859 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,859 - DEBUG -
+https://bandcamp.com/tag/rap
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/folk
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/acoustic
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/house
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/electronica
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/psychedelic
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/singer-songwriter
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/hardcore
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/lo-fi
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/dark-ambient
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/industrial
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/jazz
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/alternative-rock
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/hip-hop
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/indie-pop
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/experimental-electronic
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/world
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/beats
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/electro
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/lofi
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/black-metal
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/soundtrack
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/post-rock
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/punk-rock
+2021-11-20 01:54:03,860 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,860 - DEBUG -
+https://bandcamp.com/tag/soul
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/post-punk
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/deep-house
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/shoegaze
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/downtempo
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/death-metal
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/funk
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/dance
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/avant-garde
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/minimal
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/blues
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/idm
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/improvisation
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/progressive
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/vaporwave
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/synthwave
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/emo
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/dub
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/synthpop
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/trap
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/indie-folk
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/drum-bass
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/underground
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/synth
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,861 - DEBUG -
+https://bandcamp.com/tag/underground-hip-hop
+2021-11-20 01:54:03,861 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/r-b
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/folk-rock
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/garage
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/piano
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/dubstep
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/instrumental-hip-hop
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/ambient-electronic
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/pop-rock
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/chillout
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/americana
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/guitar
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/electronic-music
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/chill
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/tech-house
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/progressive-rock
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/hardcore-punk
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/harsh-noise
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/pop-punk
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/psychedelic-rock
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/soundscape
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/classical
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/atmospheric
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,862 - DEBUG -
+https://bandcamp.com/tag/grunge
+2021-11-20 01:54:03,862 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/garage-rock
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/psytrance
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/dream-pop
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/edm
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/hard-rock
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/trance
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/reggae
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/country
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/bass
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/hiphop
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/diy
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/grindcore
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/devotional
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/trip-hop
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/doom
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/noise-rock
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/acid
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/new-wave
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/experimental-rock
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/dark
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/glitch
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,863 - DEBUG -
+https://bandcamp.com/tag/darkwave
+2021-11-20 01:54:03,863 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/post-hardcore
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/r-b-soul
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/experiemental
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/heavy-metal
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/thrash-metal
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/spoken-word
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/new-age
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/doom-metal
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/electroacoustic
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/sound-art
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/disco
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/field-recordings
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/free-jazz
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/world-music
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/chillwave
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/metalcore
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/breakbeat
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/cinematic
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/rock-roll
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/meditation
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/chiptune
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/progressive-metal
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/jungle
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/orchestral
+2021-11-20 01:54:03,864 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,864 - DEBUG -
+https://bandcamp.com/tag/acoustic-guitar
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/bedroom-pop
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/music
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/stoner-rock
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/black-bandcamp
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/boom-bap
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/breaks
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/fusion
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/instrumentals
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/blues-rock
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/power-pop
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/sludge
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/musique-concrete
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/alternative-pop
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/electropop
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/drone-ambient
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/comedy
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/alt-country
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/soundscapes
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/bass-music
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/deep
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/abstract
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,865 - DEBUG -
+https://bandcamp.com/tag/melodic
+2021-11-20 01:54:03,865 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/roots
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/free-improvisation
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/space
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/goth
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/contemporary
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/math-rock
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/art-rock
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/stoner
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/psych
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/power-electronics
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/harsh-noise-wall
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/folk-punk
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/experimental-hip-hop
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/ebm
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/live
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/breakcore
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/progressive-house
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/space-rock
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/garage-punk
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/krautrock
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/latin
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/poetry
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,866 - DEBUG -
+https://bandcamp.com/tag/retrowave
+2021-11-20 01:54:03,866 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/improv
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/improvised-music
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/rave
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/psychedelic-trance
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/independent
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/minimalism
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/surf
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/drum-and-bass
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/hip-hop-instrumentals
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/remix
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/dub-techno
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/alternative-hip-hop
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/gothic
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/dungeon-synth
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/ska
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/techno.
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/plunderphonics
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/80s
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/minimal-techno
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/bedroom
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/weird
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/samples
+2021-11-20 01:54:03,867 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,867 - DEBUG -
+https://bandcamp.com/tag/modern-classical
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/christian
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/synthesizer
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/rock-and-roll
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/post-metal
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/dnb
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/screamo
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/folk-pop
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/crust
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/atmospheric-black-metal
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/beat-tape
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/nu-disco
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/prog
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/acoustic-rock
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/songwriter
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/spiritual
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/synth-pop
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/avantgarde
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/horror
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/experimental-pop
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,868 - DEBUG -
+https://bandcamp.com/tag/film-music
+2021-11-20 01:54:03,868 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/groove
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/house-music
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/deep-techno
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/thrash
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/powerviolence
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/underground-rap
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/contemporary-classical
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/avant-garde
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/boombap
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/neo-soul
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/field-recording
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/minimalist
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/loops
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/noise-pop
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/classic-rock
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/dreampop
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/video-game
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/video-game-music
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/female-vocals
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/kids
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/grime
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/prog-rock
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/heavy
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/retro
+2021-11-20 01:54:03,869 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,869 - DEBUG -
+https://bandcamp.com/tag/improvised
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/rnb
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/deathcore
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/tokyo%2C-japan
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/drums
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/post-rock
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/rap-hip-hop
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/instrumental-rock
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/cassette
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/jam
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/vocal
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/tape
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/neoclassical
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/sad
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/jazz-and-improvised-music
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/lounge
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/noisecore
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/hard-techno
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/jazzy
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/jazz-fusion
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/indiepop
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/chillhop
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/melodic-hardcore
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,870 - DEBUG -
+https://bandcamp.com/tag/space-music
+2021-11-20 01:54:03,870 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/holland
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/dance-music
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/analog
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/love
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/future-bass
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/hnw
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/free
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/heavy-rock
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/stoner-metal
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/soulful
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/sample-based
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/surf-rock
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/post-punk
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/cyberpunk
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/neo-classical
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/bluegrass
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/djent
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/art
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/leftfield
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/raw-black-metal
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/dancehall
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/grind
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/gospel
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,871 - DEBUG -
+https://bandcamp.com/tag/funky
+2021-11-20 01:54:03,871 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/witch-house
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/christmas
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/sludge-metal
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/rock%27n%27roll
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/punkrock
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/swing
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/easy-listening
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/sound-collage
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/future-funk
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/progressive-trance
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/melodic-death-metal
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/meditative
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/chill-out
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/club
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/rock-n-roll
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/dreamy
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/beat
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/punk-hardcore
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/triphop
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/coldwave
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/tribal
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/piano-solo
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/footwork
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,872 - DEBUG -
+https://bandcamp.com/tag/glitch-hop
+2021-11-20 01:54:03,872 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/relaxation
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/industrial-techno
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/postrock
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/ambient-rock
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/microhouse
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/modular
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/psychedelic-pop
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/deep-tech
+2021-11-20 01:54:03,873 - DEBUG -
+
+CHECKING location_tag_list: 
+2021-11-20 01:54:03,873 - DEBUG -
+https://bandcamp.com/tag/united-kingdom
+2021-11-20 01:54:03,878 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,879 - DEBUG -
+https://bandcamp.com/tag/california
+2021-11-20 01:54:03,879 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,883 - DEBUG -
+https://bandcamp.com/tag/england
+2021-11-20 01:54:03,884 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,886 - DEBUG -
+https://bandcamp.com/tag/canada
+2021-11-20 01:54:03,886 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,889 - DEBUG -
+https://bandcamp.com/tag/germany
+2021-11-20 01:54:03,890 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,893 - DEBUG -
+https://bandcamp.com/tag/france
+2021-11-20 01:54:03,893 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,895 - DEBUG -
+https://bandcamp.com/tag/new-york
+2021-11-20 01:54:03,896 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,899 - DEBUG -
+https://bandcamp.com/tag/australia
+2021-11-20 01:54:03,899 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,903 - DEBUG -
+https://bandcamp.com/tag/usa
+2021-11-20 01:54:03,903 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,907 - DEBUG -
+https://bandcamp.com/tag/spain
+2021-11-20 01:54:03,907 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,910 - DEBUG -
+https://bandcamp.com/tag/russia
+2021-11-20 01:54:03,910 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,911 - DEBUG -
+https://bandcamp.com/tag/italy
+2021-11-20 01:54:03,912 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,913 - DEBUG -
+https://bandcamp.com/tag/los-angeles
+2021-11-20 01:54:03,913 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,917 - DEBUG -
+https://bandcamp.com/tag/texas
+2021-11-20 01:54:03,917 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,920 - DEBUG -
+https://bandcamp.com/tag/illinois
+2021-11-20 01:54:03,921 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,923 - DEBUG -
+https://bandcamp.com/tag/ontario
+2021-11-20 01:54:03,923 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,927 - DEBUG -
+https://bandcamp.com/tag/london
+2021-11-20 01:54:03,927 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,930 - DEBUG -
+https://bandcamp.com/tag/pennsylvania
+2021-11-20 01:54:03,930 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,934 - DEBUG -
+https://bandcamp.com/tag/japan
+2021-11-20 01:54:03,934 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,937 - DEBUG -
+https://bandcamp.com/tag/berlin
+2021-11-20 01:54:03,938 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,942 - DEBUG -
+https://bandcamp.com/tag/argentina
+2021-11-20 01:54:03,942 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,944 - DEBUG -
+https://bandcamp.com/tag/chicago
+2021-11-20 01:54:03,944 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,947 - DEBUG -
+https://bandcamp.com/tag/washington
+2021-11-20 01:54:03,947 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,949 - DEBUG -
+https://bandcamp.com/tag/florida
+2021-11-20 01:54:03,949 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,952 - DEBUG -
+https://bandcamp.com/tag/brazil
+2021-11-20 01:54:03,952 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,954 - DEBUG -
+https://bandcamp.com/tag/massachusetts
+2021-11-20 01:54:03,955 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,957 - DEBUG -
+https://bandcamp.com/tag/netherlands
+2021-11-20 01:54:03,957 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,959 - DEBUG -
+https://bandcamp.com/tag/michigan
+2021-11-20 01:54:03,959 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,961 - DEBUG -
+https://bandcamp.com/tag/oregon
+2021-11-20 01:54:03,961 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,965 - DEBUG -
+https://bandcamp.com/tag/ohio
+2021-11-20 01:54:03,965 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,968 - DEBUG -
+https://bandcamp.com/tag/qu%C3%A9bec
+2021-11-20 01:54:03,969 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,971 - DEBUG -
+https://bandcamp.com/tag/sweden
+2021-11-20 01:54:03,971 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,975 - DEBUG -
+https://bandcamp.com/tag/mexico
+2021-11-20 01:54:03,975 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,978 - DEBUG -
+https://bandcamp.com/tag/vic
+2021-11-20 01:54:03,979 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,982 - DEBUG -
+https://bandcamp.com/tag/seattle
+2021-11-20 01:54:03,982 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,985 - DEBUG -
+https://bandcamp.com/tag/toronto
+2021-11-20 01:54:03,985 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,988 - DEBUG -
+https://bandcamp.com/tag/melbourne
+2021-11-20 01:54:03,989 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,992 - DEBUG -
+https://bandcamp.com/tag/portland
+2021-11-20 01:54:03,993 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:03,997 - DEBUG -
+https://bandcamp.com/tag/british-columbia
+2021-11-20 01:54:03,997 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,003 - DEBUG -
+https://bandcamp.com/tag/north-carolina
+2021-11-20 01:54:04,003 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,006 - DEBUG -
+https://bandcamp.com/tag/georgia
+2021-11-20 01:54:04,007 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,010 - DEBUG -
+https://bandcamp.com/tag/belgium
+2021-11-20 01:54:04,010 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,014 - DEBUG -
+https://bandcamp.com/tag/colorado
+2021-11-20 01:54:04,015 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,018 - DEBUG -
+https://bandcamp.com/tag/new-jersey
+2021-11-20 01:54:04,018 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,021 - DEBUG -
+https://bandcamp.com/tag/poland
+2021-11-20 01:54:04,022 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,024 - DEBUG -
+https://bandcamp.com/tag/philadelphia
+2021-11-20 01:54:04,025 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,027 - DEBUG -
+https://bandcamp.com/tag/tennessee
+2021-11-20 01:54:04,028 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,034 - DEBUG -
+https://bandcamp.com/tag/uk
+2021-11-20 01:54:04,034 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,038 - DEBUG -
+https://bandcamp.com/tag/virginia
+2021-11-20 01:54:04,038 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,041 - DEBUG -
+https://bandcamp.com/tag/san-francisco
+2021-11-20 01:54:04,041 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,043 - DEBUG -
+https://bandcamp.com/tag/portugal
+2021-11-20 01:54:04,043 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,045 - DEBUG -
+https://bandcamp.com/tag/minnesota
+2021-11-20 01:54:04,045 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,047 - DEBUG -
+https://bandcamp.com/tag/montreal
+2021-11-20 01:54:04,047 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,049 - DEBUG -
+https://bandcamp.com/tag/finland
+2021-11-20 01:54:04,049 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,051 - DEBUG -
+https://bandcamp.com/tag/boston
+2021-11-20 01:54:04,052 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,056 - DEBUG -
+https://bandcamp.com/tag/austin
+2021-11-20 01:54:04,056 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,060 - DEBUG -
+https://bandcamp.com/tag/%C3%8Ele-de-france
+2021-11-20 01:54:04,061 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,063 - DEBUG -
+https://bandcamp.com/tag/nsw
+2021-11-20 01:54:04,063 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,065 - DEBUG -
+https://bandcamp.com/tag/switzerland
+2021-11-20 01:54:04,065 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,069 - DEBUG -
+https://bandcamp.com/tag/scotland
+2021-11-20 01:54:04,069 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,071 - DEBUG -
+https://bandcamp.com/tag/arizona
+2021-11-20 01:54:04,072 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,075 - DEBUG -
+https://bandcamp.com/tag/maryland
+2021-11-20 01:54:04,076 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,077 - DEBUG -
+https://bandcamp.com/tag/paris
+2021-11-20 01:54:04,077 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,079 - DEBUG -
+https://bandcamp.com/tag/new-zealand
+2021-11-20 01:54:04,079 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,081 - DEBUG -
+https://bandcamp.com/tag/greece
+2021-11-20 01:54:04,082 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,083 - DEBUG -
+https://bandcamp.com/tag/missouri
+2021-11-20 01:54:04,084 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,085 - DEBUG -
+https://bandcamp.com/tag/atlanta
+2021-11-20 01:54:04,086 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,087 - DEBUG -
+https://bandcamp.com/tag/chile
+2021-11-20 01:54:04,087 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,089 - DEBUG -
+https://bandcamp.com/tag/vancouver
+2021-11-20 01:54:04,089 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,093 - DEBUG -
+https://bandcamp.com/tag/ct
+2021-11-20 01:54:04,093 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,096 - DEBUG -
+https://bandcamp.com/tag/indiana
+2021-11-20 01:54:04,097 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,099 - DEBUG -
+https://bandcamp.com/tag/wisconsin
+2021-11-20 01:54:04,100 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,102 - DEBUG -
+https://bandcamp.com/tag/brooklyn
+2021-11-20 01:54:04,102 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,105 - DEBUG -
+https://bandcamp.com/tag/nrw
+2021-11-20 01:54:04,105 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,107 - DEBUG -
+https://bandcamp.com/tag/denmark
+2021-11-20 01:54:04,108 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,110 - DEBUG -
+https://bandcamp.com/tag/denver
+2021-11-20 01:54:04,111 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,112 - DEBUG -
+https://bandcamp.com/tag/austria
+2021-11-20 01:54:04,112 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,114 - DEBUG -
+https://bandcamp.com/tag/idf
+2021-11-20 01:54:04,114 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,118 - DEBUG -
+https://bandcamp.com/tag/ireland
+2021-11-20 01:54:04,118 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,120 - DEBUG -
+https://bandcamp.com/tag/ukraine
+2021-11-20 01:54:04,120 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,122 - DEBUG -
+https://bandcamp.com/tag/minneapolis
+2021-11-20 01:54:04,122 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,124 - DEBUG -
+https://bandcamp.com/tag/norway
+2021-11-20 01:54:04,124 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,125 - DEBUG -
+https://bandcamp.com/tag/sydney
+2021-11-20 01:54:04,126 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,127 - DEBUG -
+https://bandcamp.com/tag/detroit
+2021-11-20 01:54:04,128 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,129 - DEBUG -
+https://bandcamp.com/tag/barcelona
+2021-11-20 01:54:04,129 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,133 - DEBUG -
+https://bandcamp.com/tag/nashville
+2021-11-20 01:54:04,134 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,137 - DEBUG -
+https://bandcamp.com/tag/caba
+2021-11-20 01:54:04,137 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,140 - DEBUG -
+https://bandcamp.com/tag/buenos-aires
+2021-11-20 01:54:04,140 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,144 - DEBUG -
+https://bandcamp.com/tag/tokyo
+2021-11-20 01:54:04,144 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,146 - DEBUG -
+https://bandcamp.com/tag/israel
+2021-11-20 01:54:04,147 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,149 - DEBUG -
+https://bandcamp.com/tag/connecticut
+2021-11-20 01:54:04,149 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,152 - DEBUG -
+https://bandcamp.com/tag/hungary
+2021-11-20 01:54:04,152 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,155 - DEBUG -
+https://bandcamp.com/tag/alberta
+2021-11-20 01:54:04,155 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,156 - DEBUG -
+https://bandcamp.com/tag/moscow
+2021-11-20 01:54:04,157 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,158 - DEBUG -
+https://bandcamp.com/tag/san-diego
+2021-11-20 01:54:04,158 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,159 - DEBUG -
+https://bandcamp.com/tag/district-of-columbia
+2021-11-20 01:54:04,160 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,161 - DEBUG -
+https://bandcamp.com/tag/community-of-madrid
+2021-11-20 01:54:04,161 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,162 - DEBUG -
+https://bandcamp.com/tag/pittsburgh
+2021-11-20 01:54:04,163 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,164 - DEBUG -
+https://bandcamp.com/tag/madrid
+2021-11-20 01:54:04,164 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,166 - DEBUG -
+https://bandcamp.com/tag/sp
+2021-11-20 01:54:04,166 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,168 - DEBUG -
+https://bandcamp.com/tag/oakland
+2021-11-20 01:54:04,168 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,172 - DEBUG -
+https://bandcamp.com/tag/qld
+2021-11-20 01:54:04,172 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,176 - DEBUG -
+https://bandcamp.com/tag/south-africa
+2021-11-20 01:54:04,177 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,180 - DEBUG -
+https://bandcamp.com/tag/manchester
+2021-11-20 01:54:04,180 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,184 - DEBUG -
+https://bandcamp.com/tag/baltimore
+2021-11-20 01:54:04,184 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,188 - DEBUG -
+https://bandcamp.com/tag/houston
+2021-11-20 01:54:04,188 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,193 - DEBUG -
+https://bandcamp.com/tag/colombia
+2021-11-20 01:54:04,194 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,198 - DEBUG -
+https://bandcamp.com/tag/kentucky
+2021-11-20 01:54:04,199 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,202 - DEBUG -
+https://bandcamp.com/tag/louisiana
+2021-11-20 01:54:04,202 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,204 - DEBUG -
+https://bandcamp.com/tag/bristol
+2021-11-20 01:54:04,205 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,207 - DEBUG -
+https://bandcamp.com/tag/russian-federation
+2021-11-20 01:54:04,207 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,209 - DEBUG -
+https://bandcamp.com/tag/greater-london
+2021-11-20 01:54:04,209 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,211 - DEBUG -
+https://bandcamp.com/tag/by
+2021-11-20 01:54:04,212 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,214 - DEBUG -
+https://bandcamp.com/tag/nh
+2021-11-20 01:54:04,215 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,217 - DEBUG -
+https://bandcamp.com/tag/romania
+2021-11-20 01:54:04,217 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,218 - DEBUG -
+https://bandcamp.com/tag/dallas
+2021-11-20 01:54:04,219 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,221 - DEBUG -
+https://bandcamp.com/tag/lombardy
+2021-11-20 01:54:04,221 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,224 - DEBUG -
+https://bandcamp.com/tag/utah
+2021-11-20 01:54:04,225 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,228 - DEBUG -
+https://bandcamp.com/tag/amsterdam
+2021-11-20 01:54:04,228 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,231 - DEBUG -
+https://bandcamp.com/tag/phoenix
+2021-11-20 01:54:04,231 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,235 - DEBUG -
+https://bandcamp.com/tag/nevada
+2021-11-20 01:54:04,236 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,239 - DEBUG -
+https://bandcamp.com/tag/santiago-metropolitan-region
+2021-11-20 01:54:04,239 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,242 - DEBUG -
+https://bandcamp.com/tag/indonesia
+2021-11-20 01:54:04,243 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,246 - DEBUG -
+https://bandcamp.com/tag/new-mexico
+2021-11-20 01:54:04,246 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,249 - DEBUG -
+https://bandcamp.com/tag/richmond
+2021-11-20 01:54:04,250 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,251 - DEBUG -
+https://bandcamp.com/tag/south-carolina
+2021-11-20 01:54:04,251 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,252 - DEBUG -
+https://bandcamp.com/tag/the-netherlands
+2021-11-20 01:54:04,253 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,254 - DEBUG -
+https://bandcamp.com/tag/brisbane
+2021-11-20 01:54:04,254 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,255 - DEBUG -
+https://bandcamp.com/tag/lazio
+2021-11-20 01:54:04,256 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,257 - DEBUG -
+https://bandcamp.com/tag/s%C3%A3o-paulo
+2021-11-20 01:54:04,257 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,259 - DEBUG -
+https://bandcamp.com/tag/glasgow
+2021-11-20 01:54:04,259 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,262 - DEBUG -
+https://bandcamp.com/tag/santiago
+2021-11-20 01:54:04,262 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,263 - DEBUG -
+https://bandcamp.com/tag/oklahoma
+2021-11-20 01:54:04,264 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,266 - DEBUG -
+https://bandcamp.com/tag/maine
+2021-11-20 01:54:04,267 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,270 - DEBUG -
+https://bandcamp.com/tag/saint-petersburg
+2021-11-20 01:54:04,270 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,274 - DEBUG -
+https://bandcamp.com/tag/iowa
+2021-11-20 01:54:04,274 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,278 - DEBUG -
+https://bandcamp.com/tag/india
+2021-11-20 01:54:04,278 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,280 - DEBUG -
+https://bandcamp.com/tag/columbus
+2021-11-20 01:54:04,281 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,283 - DEBUG -
+https://bandcamp.com/tag/vienna
+2021-11-20 01:54:04,284 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,286 - DEBUG -
+https://bandcamp.com/tag/wa
+2021-11-20 01:54:04,287 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,290 - DEBUG -
+https://bandcamp.com/tag/miami
+2021-11-20 01:54:04,290 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,292 - DEBUG -
+https://bandcamp.com/tag/kansas
+2021-11-20 01:54:04,292 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,294 - DEBUG -
+https://bandcamp.com/tag/alabama
+2021-11-20 01:54:04,295 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,297 - DEBUG -
+https://bandcamp.com/tag/cleveland
+2021-11-20 01:54:04,298 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,299 - DEBUG -
+https://bandcamp.com/tag/cincinnati
+2021-11-20 01:54:04,300 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,301 - DEBUG -
+https://bandcamp.com/tag/milwaukee
+2021-11-20 01:54:04,302 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,303 - DEBUG -
+https://bandcamp.com/tag/serbia
+2021-11-20 01:54:04,304 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,306 - DEBUG -
+https://bandcamp.com/tag/wales
+2021-11-20 01:54:04,306 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,308 - DEBUG -
+https://bandcamp.com/tag/china
+2021-11-20 01:54:04,308 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,311 - DEBUG -
+https://bandcamp.com/tag/sn
+2021-11-20 01:54:04,312 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,315 - DEBUG -
+https://bandcamp.com/tag/rhode-island
+2021-11-20 01:54:04,316 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,319 - DEBUG -
+https://bandcamp.com/tag/new-orleans
+2021-11-20 01:54:04,319 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,321 - DEBUG -
+https://bandcamp.com/tag/zh
+2021-11-20 01:54:04,321 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,325 - DEBUG -
+https://bandcamp.com/tag/hh
+2021-11-20 01:54:04,326 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,329 - DEBUG -
+https://bandcamp.com/tag/rome
+2021-11-20 01:54:04,329 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,332 - DEBUG -
+https://bandcamp.com/tag/hamburg
+2021-11-20 01:54:04,332 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,336 - DEBUG -
+https://bandcamp.com/tag/bw
+2021-11-20 01:54:04,337 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,338 - DEBUG -
+https://bandcamp.com/tag/stockholm-county
+2021-11-20 01:54:04,339 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,340 - DEBUG -
+https://bandcamp.com/tag/perth
+2021-11-20 01:54:04,341 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,342 - DEBUG -
+https://bandcamp.com/tag/lisbon
+2021-11-20 01:54:04,342 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,344 - DEBUG -
+https://bandcamp.com/tag/sa
+2021-11-20 01:54:04,344 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,345 - DEBUG -
+https://bandcamp.com/tag/stockholm
+2021-11-20 01:54:04,346 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,347 - DEBUG -
+https://bandcamp.com/tag/al
+2021-11-20 01:54:04,347 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,349 - DEBUG -
+https://bandcamp.com/tag/flanders
+2021-11-20 01:54:04,349 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,350 - DEBUG -
+https://bandcamp.com/tag/brighton
+2021-11-20 01:54:04,351 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,354 - DEBUG -
+https://bandcamp.com/tag/he
+2021-11-20 01:54:04,355 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,358 - DEBUG -
+https://bandcamp.com/tag/south-korea
+2021-11-20 01:54:04,359 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,362 - DEBUG -
+https://bandcamp.com/tag/milan
+2021-11-20 01:54:04,362 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,366 - DEBUG -
+https://bandcamp.com/tag/peru
+2021-11-20 01:54:04,366 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,372 - DEBUG -
+https://bandcamp.com/tag/orlando
+2021-11-20 01:54:04,373 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,379 - DEBUG -
+https://bandcamp.com/tag/czech-republic
+2021-11-20 01:54:04,380 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,387 - DEBUG -
+https://bandcamp.com/tag/auvergne-rh%C3%B4ne-alpes
+2021-11-20 01:54:04,387 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,390 - DEBUG -
+https://bandcamp.com/tag/emilia-romagna
+2021-11-20 01:54:04,391 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,392 - DEBUG -
+https://bandcamp.com/tag/sacramento
+2021-11-20 01:54:04,393 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,394 - DEBUG -
+https://bandcamp.com/tag/kansas-city
+2021-11-20 01:54:04,394 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,395 - DEBUG -
+https://bandcamp.com/tag/montr%C3%A9al
+2021-11-20 01:54:04,396 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,397 - DEBUG -
+https://bandcamp.com/tag/cdmx
+2021-11-20 01:54:04,397 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,398 - DEBUG -
+https://bandcamp.com/tag/oslo
+2021-11-20 01:54:04,399 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,400 - DEBUG -
+https://bandcamp.com/tag/auckland
+2021-11-20 01:54:04,400 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,401 - DEBUG -
+https://bandcamp.com/tag/brittany
+2021-11-20 01:54:04,402 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,403 - DEBUG -
+https://bandcamp.com/tag/buenos-aires-province
+2021-11-20 01:54:04,403 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,407 - DEBUG -
+https://bandcamp.com/tag/pays-de-la-loire
+2021-11-20 01:54:04,407 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,410 - DEBUG -
+https://bandcamp.com/tag/adelaide
+2021-11-20 01:54:04,411 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,414 - DEBUG -
+https://bandcamp.com/tag/mexico-city
+2021-11-20 01:54:04,415 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,418 - DEBUG -
+https://bandcamp.com/tag/indianapolis
+2021-11-20 01:54:04,418 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,420 - DEBUG -
+https://bandcamp.com/tag/leeds
+2021-11-20 01:54:04,421 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,423 - DEBUG -
+https://bandcamp.com/tag/ottawa
+2021-11-20 01:54:04,423 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,425 - DEBUG -
+https://bandcamp.com/tag/calgary
+2021-11-20 01:54:04,426 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,428 - DEBUG -
+https://bandcamp.com/tag/cologne
+2021-11-20 01:54:04,428 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,430 - DEBUG -
+https://bandcamp.com/tag/manitoba
+2021-11-20 01:54:04,430 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,431 - DEBUG -
+https://bandcamp.com/tag/nova-scotia
+2021-11-20 01:54:04,432 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,433 - DEBUG -
+https://bandcamp.com/tag/brussels
+2021-11-20 01:54:04,433 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,435 - DEBUG -
+https://bandcamp.com/tag/provence-alpes-c%C3%B4te-d%27azur
+2021-11-20 01:54:04,435 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,439 - DEBUG -
+https://bandcamp.com/tag/vermont
+2021-11-20 01:54:04,440 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,442 - DEBUG -
+https://bandcamp.com/tag/czechia
+2021-11-20 01:54:04,442 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,444 - DEBUG -
+https://bandcamp.com/tag/edmonton
+2021-11-20 01:54:04,445 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,446 - DEBUG -
+https://bandcamp.com/tag/new-hampshire
+2021-11-20 01:54:04,447 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,450 - DEBUG -
+https://bandcamp.com/tag/winnipeg
+2021-11-20 01:54:04,450 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,453 - DEBUG -
+https://bandcamp.com/tag/veneto
+2021-11-20 01:54:04,454 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,459 - DEBUG -
+https://bandcamp.com/tag/las-vegas
+2021-11-20 01:54:04,459 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,463 - DEBUG -
+https://bandcamp.com/tag/asheville
+2021-11-20 01:54:04,463 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,468 - DEBUG -
+https://bandcamp.com/tag/salt-lake-city
+2021-11-20 01:54:04,468 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,471 - DEBUG -
+https://bandcamp.com/tag/croatia
+2021-11-20 01:54:04,471 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,474 - DEBUG -
+https://bandcamp.com/tag/valencian-community
+2021-11-20 01:54:04,474 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,480 - DEBUG -
+https://bandcamp.com/tag/malaysia
+2021-11-20 01:54:04,480 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,482 - DEBUG -
+https://bandcamp.com/tag/slovakia
+2021-11-20 01:54:04,482 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,483 - DEBUG -
+https://bandcamp.com/tag/louisville
+2021-11-20 01:54:04,483 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,485 - DEBUG -
+https://bandcamp.com/tag/philippines
+2021-11-20 01:54:04,485 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,486 - DEBUG -
+https://bandcamp.com/tag/arkansas
+2021-11-20 01:54:04,487 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,488 - DEBUG -
+https://bandcamp.com/tag/st.-louis
+2021-11-20 01:54:04,488 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,490 - DEBUG -
+https://bandcamp.com/tag/tampa
+2021-11-20 01:54:04,490 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,491 - DEBUG -
+https://bandcamp.com/tag/buffalo
+2021-11-20 01:54:04,491 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,493 - DEBUG -
+https://bandcamp.com/tag/masovian-voivodeship
+2021-11-20 01:54:04,493 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,495 - DEBUG -
+https://bandcamp.com/tag/munich
+2021-11-20 01:54:04,495 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,497 - DEBUG -
+https://bandcamp.com/tag/victoria
+2021-11-20 01:54:04,498 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,501 - DEBUG -
+https://bandcamp.com/tag/athens
+2021-11-20 01:54:04,501 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,503 - DEBUG -
+https://bandcamp.com/tag/budapest
+2021-11-20 01:54:04,504 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,506 - DEBUG -
+https://bandcamp.com/tag/san-antonio
+2021-11-20 01:54:04,506 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,509 - DEBUG -
+https://bandcamp.com/tag/rochester
+2021-11-20 01:54:04,510 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,512 - DEBUG -
+https://bandcamp.com/tag/slovenia
+2021-11-20 01:54:04,513 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,516 - DEBUG -
+https://bandcamp.com/tag/leipzig
+2021-11-20 01:54:04,516 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,517 - DEBUG -
+https://bandcamp.com/tag/nds
+2021-11-20 01:54:04,518 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,519 - DEBUG -
+https://bandcamp.com/tag/warsaw
+2021-11-20 01:54:04,519 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,521 - DEBUG -
+https://bandcamp.com/tag/occitanie
+2021-11-20 01:54:04,521 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,522 - DEBUG -
+https://bandcamp.com/tag/providence
+2021-11-20 01:54:04,523 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,525 - DEBUG -
+https://bandcamp.com/tag/birmingham
+2021-11-20 01:54:04,525 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,528 - DEBUG -
+https://bandcamp.com/tag/nouvelle-aquitaine
+2021-11-20 01:54:04,528 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,533 - DEBUG -
+https://bandcamp.com/tag/rj
+2021-11-20 01:54:04,534 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,536 - DEBUG -
+https://bandcamp.com/tag/nebraska
+2021-11-20 01:54:04,537 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,540 - DEBUG -
+https://bandcamp.com/tag/idaho
+2021-11-20 01:54:04,540 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,543 - DEBUG -
+https://bandcamp.com/tag/edinburgh
+2021-11-20 01:54:04,544 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,547 - DEBUG -
+https://bandcamp.com/tag/uruguay
+2021-11-20 01:54:04,548 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,551 - DEBUG -
+https://bandcamp.com/tag/copenhagen
+2021-11-20 01:54:04,551 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,554 - DEBUG -
+https://bandcamp.com/tag/charlotte
+2021-11-20 01:54:04,554 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,557 - DEBUG -
+https://bandcamp.com/tag/tucson
+2021-11-20 01:54:04,558 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,561 - DEBUG -
+https://bandcamp.com/tag/comunidad-de-madrid
+2021-11-20 01:54:04,562 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,565 - DEBUG -
+https://bandcamp.com/tag/turkey
+2021-11-20 01:54:04,566 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,568 - DEBUG -
+https://bandcamp.com/tag/rotterdam
+2021-11-20 01:54:04,569 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,570 - DEBUG -
+https://bandcamp.com/tag/belarus
+2021-11-20 01:54:04,570 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,573 - DEBUG -
+https://bandcamp.com/tag/pv
+2021-11-20 01:54:04,573 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,574 - DEBUG -
+https://bandcamp.com/tag/singapore
+2021-11-20 01:54:04,575 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,577 - DEBUG -
+https://bandcamp.com/tag/sheffield
+2021-11-20 01:54:04,577 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,580 - DEBUG -
+https://bandcamp.com/tag/albuquerque
+2021-11-20 01:54:04,580 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,581 - DEBUG -
+https://bandcamp.com/tag/memphis
+2021-11-20 01:54:04,582 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,583 - DEBUG -
+https://bandcamp.com/tag/madison
+2021-11-20 01:54:04,583 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,585 - DEBUG -
+https://bandcamp.com/tag/raleigh
+2021-11-20 01:54:04,586 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,588 - DEBUG -
+https://bandcamp.com/tag/wellington
+2021-11-20 01:54:04,589 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,590 - DEBUG -
+https://bandcamp.com/tag/dayton
+2021-11-20 01:54:04,591 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,593 - DEBUG -
+https://bandcamp.com/tag/newcastle-upon-tyne
+2021-11-20 01:54:04,593 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,595 - DEBUG -
+https://bandcamp.com/tag/nantes
+2021-11-20 01:54:04,596 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,600 - DEBUG -
+https://bandcamp.com/tag/hawaii
+2021-11-20 01:54:04,600 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,605 - DEBUG -
+https://bandcamp.com/tag/bulgaria
+2021-11-20 01:54:04,606 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,611 - DEBUG -
+https://bandcamp.com/tag/iceland
+2021-11-20 01:54:04,611 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,613 - DEBUG -
+https://bandcamp.com/tag/lithuania
+2021-11-20 01:54:04,614 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,616 - DEBUG -
+https://bandcamp.com/tag/v%C3%A4stra-g%C3%B6taland-county
+2021-11-20 01:54:04,616 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,618 - DEBUG -
+https://bandcamp.com/tag/grand-rapids
+2021-11-20 01:54:04,618 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,619 - DEBUG -
+https://bandcamp.com/tag/helsinki
+2021-11-20 01:54:04,620 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,621 - DEBUG -
+https://bandcamp.com/tag/rs
+2021-11-20 01:54:04,622 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,623 - DEBUG -
+https://bandcamp.com/tag/long-beach
+2021-11-20 01:54:04,623 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,625 - DEBUG -
+https://bandcamp.com/tag/costa-rica
+2021-11-20 01:54:04,625 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,628 - DEBUG -
+https://bandcamp.com/tag/hamilton
+2021-11-20 01:54:04,629 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,632 - DEBUG -
+https://bandcamp.com/tag/rio-de-janeiro
+2021-11-20 01:54:04,633 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,637 - DEBUG -
+https://bandcamp.com/tag/estonia
+2021-11-20 01:54:04,637 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,640 - DEBUG -
+https://bandcamp.com/tag/san-jose
+2021-11-20 01:54:04,640 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,643 - DEBUG -
+https://bandcamp.com/tag/olympia
+2021-11-20 01:54:04,644 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,647 - DEBUG -
+https://bandcamp.com/tag/bogota
+2021-11-20 01:54:04,648 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,651 - DEBUG -
+https://bandcamp.com/tag/west-virginia
+2021-11-20 01:54:04,651 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,654 - DEBUG -
+https://bandcamp.com/tag/valencia
+2021-11-20 01:54:04,654 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,658 - DEBUG -
+https://bandcamp.com/tag/gp
+2021-11-20 01:54:04,658 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,659 - DEBUG -
+https://bandcamp.com/tag/county-dublin
+2021-11-20 01:54:04,660 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,661 - DEBUG -
+https://bandcamp.com/tag/piedmont
+2021-11-20 01:54:04,661 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,663 - DEBUG -
+https://bandcamp.com/tag/dublin
+2021-11-20 01:54:04,663 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,664 - DEBUG -
+https://bandcamp.com/tag/%E6%9D%B1%E4%BA%AC%E9%83%BD
+2021-11-20 01:54:04,665 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,666 - DEBUG -
+https://bandcamp.com/tag/attica
+2021-11-20 01:54:04,666 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,669 - DEBUG -
+https://bandcamp.com/tag/tuscany
+2021-11-20 01:54:04,669 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,670 - DEBUG -
+https://bandcamp.com/tag/ile-de-france
+2021-11-20 01:54:04,671 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,672 - DEBUG -
+https://bandcamp.com/tag/marseille
+2021-11-20 01:54:04,672 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,675 - DEBUG -
+https://bandcamp.com/tag/latvia
+2021-11-20 01:54:04,675 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,677 - DEBUG -
+https://bandcamp.com/tag/mississippi
+2021-11-20 01:54:04,678 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,680 - DEBUG -
+https://bandcamp.com/tag/montana
+2021-11-20 01:54:04,681 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,683 - DEBUG -
+https://bandcamp.com/tag/campania
+2021-11-20 01:54:04,683 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,686 - DEBUG -
+https://bandcamp.com/tag/eugene
+2021-11-20 01:54:04,686 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,688 - DEBUG -
+https://bandcamp.com/tag/lyon
+2021-11-20 01:54:04,689 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,691 - DEBUG -
+https://bandcamp.com/tag/northern-ireland
+2021-11-20 01:54:04,692 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,694 - DEBUG -
+https://bandcamp.com/tag/catalunya
+2021-11-20 01:54:04,695 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,696 - DEBUG -
+https://bandcamp.com/tag/liverpool
+2021-11-20 01:54:04,696 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,698 - DEBUG -
+https://bandcamp.com/tag/capital-region-of-denmark
+2021-11-20 01:54:04,698 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,699 - DEBUG -
+https://bandcamp.com/tag/denton
+2021-11-20 01:54:04,700 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,701 - DEBUG -
+https://bandcamp.com/tag/bucharest
+2021-11-20 01:54:04,701 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,703 - DEBUG -
+https://bandcamp.com/tag/ga
+2021-11-20 01:54:04,703 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,705 - DEBUG -
+https://bandcamp.com/tag/rennes
+2021-11-20 01:54:04,705 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,707 - DEBUG -
+https://bandcamp.com/tag/frankfurt
+2021-11-20 01:54:04,707 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,709 - DEBUG -
+https://bandcamp.com/tag/gothenburg
+2021-11-20 01:54:04,709 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,714 - DEBUG -
+https://bandcamp.com/tag/d.f.
+2021-11-20 01:54:04,715 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,718 - DEBUG -
+https://bandcamp.com/tag/albany
+2021-11-20 01:54:04,719 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,722 - DEBUG -
+https://bandcamp.com/tag/ecuador
+2021-11-20 01:54:04,722 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,725 - DEBUG -
+https://bandcamp.com/tag/new-brunswick
+2021-11-20 01:54:04,726 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,728 - DEBUG -
+https://bandcamp.com/tag/thailand
+2021-11-20 01:54:04,728 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,731 - DEBUG -
+https://bandcamp.com/tag/nottingham
+2021-11-20 01:54:04,731 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,733 - DEBUG -
+https://bandcamp.com/tag/aquitaine
+2021-11-20 01:54:04,734 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,736 - DEBUG -
+https://bandcamp.com/tag/bayern
+2021-11-20 01:54:04,736 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,738 - DEBUG -
+https://bandcamp.com/tag/tel-aviv-district
+2021-11-20 01:54:04,738 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,739 - DEBUG -
+https://bandcamp.com/tag/saskatchewan
+2021-11-20 01:54:04,739 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,741 - DEBUG -
+https://bandcamp.com/tag/bologna
+2021-11-20 01:54:04,741 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,742 - DEBUG -
+https://bandcamp.com/tag/pm
+2021-11-20 01:54:04,743 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,744 - DEBUG -
+https://bandcamp.com/tag/tulsa
+2021-11-20 01:54:04,744 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,746 - DEBUG -
+https://bandcamp.com/tag/bloomington
+2021-11-20 01:54:04,747 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,748 - DEBUG -
+https://bandcamp.com/tag/mg
+2021-11-20 01:54:04,749 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,751 - DEBUG -
+https://bandcamp.com/tag/taiwan
+2021-11-20 01:54:04,751 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,755 - DEBUG -
+https://bandcamp.com/tag/grand-est
+2021-11-20 01:54:04,755 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,759 - DEBUG -
+https://bandcamp.com/tag/tel-aviv-yafo
+2021-11-20 01:54:04,759 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,763 - DEBUG -
+https://bandcamp.com/tag/greater-manchester
+2021-11-20 01:54:04,764 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,768 - DEBUG -
+https://bandcamp.com/tag/montevideo-department
+2021-11-20 01:54:04,768 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,772 - DEBUG -
+https://bandcamp.com/tag/alaska
+2021-11-20 01:54:04,773 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,776 - DEBUG -
+https://bandcamp.com/tag/montevideo
+2021-11-20 01:54:04,776 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,779 - DEBUG -
+https://bandcamp.com/tag/uusimaa
+2021-11-20 01:54:04,780 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,782 - DEBUG -
+https://bandcamp.com/tag/jacksonville
+2021-11-20 01:54:04,782 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,784 - DEBUG -
+https://bandcamp.com/tag/tas
+2021-11-20 01:54:04,784 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,786 - DEBUG -
+https://bandcamp.com/tag/fort-worth
+2021-11-20 01:54:04,786 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,790 - DEBUG -
+https://bandcamp.com/tag/new-haven
+2021-11-20 01:54:04,790 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,792 - DEBUG -
+https://bandcamp.com/tag/nordrhein-westfalen
+2021-11-20 01:54:04,793 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,794 - DEBUG -
+https://bandcamp.com/tag/omaha
+2021-11-20 01:54:04,794 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,796 - DEBUG -
+https://bandcamp.com/tag/ra
+2021-11-20 01:54:04,796 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,797 - DEBUG -
+https://bandcamp.com/tag/north-rhine-westphalia
+2021-11-20 01:54:04,798 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,800 - DEBUG -
+https://bandcamp.com/tag/wc
+2021-11-20 01:54:04,800 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,803 - DEBUG -
+https://bandcamp.com/tag/venezuela
+2021-11-20 01:54:04,804 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,807 - DEBUG -
+https://bandcamp.com/tag/oklahoma-city
+2021-11-20 01:54:04,807 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,811 - DEBUG -
+https://bandcamp.com/tag/delaware
+2021-11-20 01:54:04,812 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,815 - DEBUG -
+https://bandcamp.com/tag/hlavn%C3%AD-m%C4%9Bsto-praha
+2021-11-20 01:54:04,816 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,819 - DEBUG -
+https://bandcamp.com/tag/halifax
+2021-11-20 01:54:04,819 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,822 - DEBUG -
+https://bandcamp.com/tag/newfoundland-and-labrador
+2021-11-20 01:54:04,823 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,826 - DEBUG -
+https://bandcamp.com/tag/porto-district
+2021-11-20 01:54:04,826 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,829 - DEBUG -
+https://bandcamp.com/tag/gainesville
+2021-11-20 01:54:04,830 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,831 - DEBUG -
+https://bandcamp.com/tag/midi-pyr%C3%A9n%C3%A9es
+2021-11-20 01:54:04,832 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,833 - DEBUG -
+https://bandcamp.com/tag/boulder
+2021-11-20 01:54:04,833 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,835 - DEBUG -
+https://bandcamp.com/tag/zuid-holland
+2021-11-20 01:54:04,836 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,837 - DEBUG -
+https://bandcamp.com/tag/bellingham
+2021-11-20 01:54:04,837 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,838 - DEBUG -
+https://bandcamp.com/tag/kyiv
+2021-11-20 01:54:04,839 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,840 - DEBUG -
+https://bandcamp.com/tag/noord-holland
+2021-11-20 01:54:04,840 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,842 - DEBUG -
+https://bandcamp.com/tag/seoul
+2021-11-20 01:54:04,842 - DEBUG -
+
+CREATING USER FORM DATA:
+2021-11-20 01:54:04,843 - DEBUG -
+https://bandcamp.com/tag/antarctica
+2021-11-20 01:54:04,843 - DEBUG -
+
+CREATING USER FORM DATA:
