@@ -30,11 +30,11 @@ logging.basicConfig(filename='/tmp/TagScraperLog.txt', level=logging.DEBUG, form
 def copyOverCSSAndJS():
     css_file_path = str(WEBSITE_PATH + '/css/bandcamper.css')
     print('css_file_path: ' + str(css_file_path))
-    shutil.copyfile(str(PROJECT_DIRECTORY) + '/bandcamper.css', css_file_path)
+    shutil.copyfile(str(PROJECT_DIRECTORY) + '/css/bandcamper.css', css_file_path)
 
     # Create JS script for art gallery page using project's example:
     js_file_path = str(WEBSITE_PATH + '/js/tags.js')
-    shutil.copyfile(str(PROJECT_DIRECTORY) + '/tags.js', js_file_path)
+    shutil.copyfile(str(PROJECT_DIRECTORY) + '/js/tags.js', js_file_path)
 
     
 def scrapeTags():
