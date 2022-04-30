@@ -1,9 +1,12 @@
 body {
     background-color: #5372fc;
     color: white;
-    text-align: center;
 }
 
 a {
     color: hotpink;
+}
+
+#content {
+  text-align: center;
 }

@@ -78,6 +78,7 @@ def writeTags(genre_tag_list, location_tag_list):
         # https://jsfiddle.net/198bdcec/5/
         f.write('</head>')
         f.write('<body>')
+        f.write('<div id="content">')
         f.write('<h1>Bandcamper</h1>')
         f.write('<h2>Last Time Updated: ' + str(current_date_eastern) + ' at ' + str(current_time_eastern) + ' EDT</h2>')
         f.write('<br />')
@@ -120,6 +121,7 @@ def writeTags(genre_tag_list, location_tag_list):
         f.write('<br />')
         f.write('<script src="js/tags.js"></script>')
         f.write('<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">')
+        f.write('</div>')
         f.write('</body>')
         f.write('</html>')
     f.close()
