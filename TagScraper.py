@@ -1,5 +1,12 @@
 import bs4, requests, logging, random, os
 import pendulum
+import shutil
+from dotenv import load_dotenv
+from pathlib import Path
+
+# Global Variables:
+load_dotenv()
+env_path = Path('.')/'.env'
 
 serverLogFile = '/tmp/TagScraperLog.txt'
 
@@ -10,6 +17,16 @@ if os.path.isfile(serverLogFile):
 # Create the new fresh log called 'TagScraperLog.txt':
 logging.basicConfig(filename='/tmp/TagScraperLog.txt', level=logging.DEBUG, format='%(asctime)s - %(levelname)s -%(message)s')
 
+def copyOverCSSAndJS():
+    css_file_path = str(WEBSITE_PATH + '/css/bandcamper.css')
+    print('css_file_path: ' + str(css_file_path))
+    shutil.copyfile(str(PROJECT_DIRECTORY) + '/bandcamper.css', css_file_path)
+
+    # Create JS script for art gallery page using project's example:
+    js_file_path = str(WEBSITE_PATH + '/js/tags.js')
+    shutil.copyfile(str(PROJECT_DIRECTORY) + '/tags.js', js_file_path)
+
+    
 def scrapeTags():
     r = requests.get('https://bandcamp.com/tags')
     soup = bs4.BeautifulSoup(r.text, 'html.parser')
@@ -40,6 +57,7 @@ def writeTags(genre_tag_list, location_tag_list):
     with open('/var/www/musimatic/pythonprojectwebsites/Bandcamper/tags.html', 'w') as f:
         f.write('<html>')
         f.write('<link rel="stylesheet" href="css/bandcamper.css" type="text/css"/>')
+        f.write('<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">')
         f.write('<head>')
         f.write('<title>Bandcamper</title>')
         f.write('<meta charset="utf-8"/>')        
@@ -91,12 +109,14 @@ def writeTags(genre_tag_list, location_tag_list):
         f.write('<br />')
         f.write('<br />')
         f.write('<script src="js/tags.js"></script>')
+        f.write('<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">')
         f.write('</body>')
         f.write('</html>')
     f.close()
 
         
 def main():
+    copyOverCSSAndJS()
     genre_tag_list, location_tag_list = scrapeTags()
     logging.debug('\n\nCHECKING genre_tag_list: ')
     for item in genre_tag_list:
