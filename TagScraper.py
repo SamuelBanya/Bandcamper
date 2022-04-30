@@ -7,7 +7,17 @@ from pathlib import Path
 # Global Variables:
 load_dotenv()
 env_path = Path('.')/'.env'
-
+load_dotenv(dotenv_path=env_path)
+WEBSITE_PATH = os.getenv("WEBSITE_PATH")
+print('WEBSITE_PATH: ' + str(WEBSITE_PATH))
+# art_gallery_path = '/var/www/musimatic/images/ArtGallery'
+art_portfolio_path = str(WEBSITE_PATH) + str("/images/ArtPortfolio")
+WEBSITE_ADDRESS = os.getenv("WEBSITE_ADDRESS")
+print('WEBSITE_ADDRESS: ' + str(WEBSITE_ADDRESS))
+WEBSITE_FULL_ADDRESS = os.getenv("WEBSITE_FULL_ADDRESS")
+print('WEBSITE_FULL_ADDRESS: ' + str(WEBSITE_FULL_ADDRESS))
+PROJECT_DIRECTORY = os.getenv("PROJECT_DIRECTORY")
+print('PROJECT_DIRECTORY: ' + str(PROJECT_DIRECTORY))
 serverLogFile = '/tmp/TagScraperLog.txt'
 
 # Logfile location on a server:
