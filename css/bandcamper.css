@@ -8,11 +8,3 @@ body {
   background-color: #5372fc;
   color: white;  
 }
-
-#content button a {
-  color: white;
-}
-
-#content button a:hover {
-  color: black;
-}
