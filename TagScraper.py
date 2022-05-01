@@ -66,12 +66,11 @@ def writeTags(genre_tag_list, location_tag_list):
     logging.debug('\n\nCREATING USER FORM DATA:')
     with open('/var/www/musimatic/pythonprojectwebsites/Bandcamper/tags.html', 'w') as f:
         f.write('<html>')
+        f.write('<head>')        
         f.write('<link rel="stylesheet" href="css/bandcamper.css" type="text/css"/>')
         f.write('<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">')
-        f.write('<head>')
         f.write('<title>Bandcamper</title>')
-        f.write('<meta charset="utf-8"/>')        
-        f.write('<link rel="stylesheet" href="css/output.css" type="text/css"/>')
+        f.write('<meta charset="utf-8"/>')
         # JS Code Adapted From This StackOverflow Example:
         # https://stackoverflow.com/questions/46737895/how-to-display-a-list-of-links-as-a-drop-down-select
         # Another example:
