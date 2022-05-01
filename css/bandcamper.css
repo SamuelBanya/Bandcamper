@@ -7,4 +7,5 @@ body {
   text-align: center;
   background-color: #020617;
   color: #5372fc;
+  min-height: 100vh;
 }
