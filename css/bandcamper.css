@@ -9,6 +9,6 @@ body {
   color: white;  
 }
 
-#content:hover {
+#content a:hover {
   color: black;
 }
