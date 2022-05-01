@@ -1,12 +1,14 @@
 body {
-    background-color: #5372fc;
-    color: white;
+  background-color: #5372fc;
+  color: white;
 }
 
 a {
-    color: hotpink;
+  color: hotpink;
 }
 
 #content {
   text-align: center;
+  background-color: #5372fc;
+  color: white;  
 }
