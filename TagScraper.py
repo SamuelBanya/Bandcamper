@@ -95,7 +95,6 @@ def writeTags(genre_tag_list, location_tag_list):
         f.write('<h1>Bandcamper</h1>')
         f.write('<h2>Last Time Updated: ' + str(current_date_eastern) + ' at ' + str(current_time_eastern) + ' EDT</h2>')
         f.write('<br />')
-        f.write('<br />')
         f.write('<a class="btn btn-primary" href="https://github.com/SamuelBanya/Bandcamper">Source Code Link</a>')
         f.write('<br />')
         f.write('<br />')
