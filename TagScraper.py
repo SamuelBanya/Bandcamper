@@ -85,7 +85,7 @@ def writeTags(genre_tag_list, location_tag_list):
         f.write('<a href="http://www.musimatic.xyz">BACK TO HOMEPAGE</a>')
         f.write('<br />')
         f.write('<br />')
-        f.write('<a href="https://git.musimatic.xyz/Bandcamper/tree/">Source Code Link</a>')
+        f.write('<button type="button" class="btn btn-primary"><a href="https://git.musimatic.xyz/Bandcamper/tree/">Source Code Link</a></button>')
         f.write('<br />')
         f.write('<br />')
         f.write('<p>Pick a genre or a location from one of the two drop-down menus to visit Bandcamp and discover new bands!</p>')
