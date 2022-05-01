@@ -9,10 +9,10 @@ body {
   color: white;  
 }
 
-#content a {
+#content button {
   color: white;
 }
 
-#content a:hover {
+#content button:hover {
   color: black;
 }
