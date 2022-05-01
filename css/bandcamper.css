@@ -9,6 +9,10 @@ body {
   color: white;  
 }
 
+#content a {
+  color: white;
+}
+
 #content a:hover {
   color: black;
 }
