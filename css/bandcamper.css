@@ -8,3 +8,7 @@ body {
   background-color: #5372fc;
   color: white;  
 }
+
+#content:hover {
+  color: black;
+}

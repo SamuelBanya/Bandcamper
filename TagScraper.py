@@ -82,7 +82,7 @@ def writeTags(genre_tag_list, location_tag_list):
         f.write('<h1>Bandcamper</h1>')
         f.write('<h2>Last Time Updated: ' + str(current_date_eastern) + ' at ' + str(current_time_eastern) + ' EDT</h2>')
         f.write('<br />')
-        f.write('<button type="button" class="btn btn-primary"<a href="http://www.musimatic.xyz">BACK TO HOMEPAGE</a></button>')
+        f.write('<button type="button" class="btn btn-primary"><a href="http://www.musimatic.xyz">BACK TO HOMEPAGE</a></button>')
         f.write('<br />')
         f.write('<br />')
         f.write('<button type="button" class="btn btn-primary"><a href="https://github.com/SamuelBanya/Bandcamper">Source Code Link</a></button>')
