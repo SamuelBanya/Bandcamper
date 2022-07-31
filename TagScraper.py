@@ -36,7 +36,7 @@ def copyOverCSSAndJS():
     js_file_path = str(WEBSITE_PATH + '/js/tags.js')
     shutil.copyfile(str(PROJECT_DIRECTORY) + '/js/tags.js', js_file_path)
 
-    
+
 def scrapeTags():
     r = requests.get('https://bandcamp.com/tags')
     soup = bs4.BeautifulSoup(r.text, 'html.parser')
@@ -52,10 +52,10 @@ def scrapeTags():
     for item in location_tags:
         logging.debug('\n' + 'https://bandcamp.com' + str(item.attrs['href']))
         location_tag_list.append(str('https://bandcamp.com' + str(item.attrs['href'])))
-        
+
     return genre_tag_list, location_tag_list
 
-            
+
 def writeTags(genre_tag_list, location_tag_list):
     genre_tag_list = sorted(genre_tag_list)
     # Remove the blank tag if present:
@@ -64,9 +64,9 @@ def writeTags(genre_tag_list, location_tag_list):
     current_date_eastern = pendulum.now('America/New_York').format('dddd, MMMM D, YYYY')
     current_time_eastern = pendulum.now('America/New_York').format('hh:mm:ss A')
     logging.debug('\n\nCREATING USER FORM DATA:')
-    with open('/var/www/musimatic/pythonprojectwebsites/Bandcamper/tags.html', 'w') as f:
+    with open('/var/www/apps/pythonprojectwebsites/Bandcamper/tags.html', 'w') as f:
         f.write('<html>')
-        f.write('<head>')        
+        f.write('<head>')
         f.write('<link rel="stylesheet" href="css/bandcamper.css" type="text/css"/>')
         f.write('<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">')
         f.write('<title>Bandcamper</title>')
@@ -111,21 +111,21 @@ def writeTags(genre_tag_list, location_tag_list):
             f.write('</a></option>')
             f.write('\n')
         f.write('</select>')
-        f.write('<button type="button" class="btn btn-success" id="genreGoButton">GO!</button>')            
+        f.write('<button type="button" class="btn btn-success" id="genreGoButton">GO!</button>')
         f.write('</form>')
         f.write('<br />')
         f.write('<br />')
         f.write('<form>')
         f.write('<label for="location-select">Choose A Location: </label>')
         f.write('<select name="location" id="location-select">')
-        f.write('<option value="">--Please Choose A Location--</option>')        
+        f.write('<option value="">--Please Choose A Location--</option>')
         for location in location_tag_list:
             f.write('<option value="' + str(location) + '"><a href="' + str(location) + '">')
             f.write(location)
             f.write('</a></option>')
             f.write('\n')
         f.write('</select>')
-        f.write('<button type="button" class="btn btn-success" id="locationGoButton">GO!</button>')            
+        f.write('<button type="button" class="btn btn-success" id="locationGoButton">GO!</button>')
         f.write('</form>')
         f.write('<br />')
         f.write('<br />')
@@ -136,7 +136,7 @@ def writeTags(genre_tag_list, location_tag_list):
         f.write('</html>')
     f.close()
 
-        
+
 def main():
     copyOverCSSAndJS()
     genre_tag_list, location_tag_list = scrapeTags()
